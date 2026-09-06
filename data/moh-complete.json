@@ -4089,8 +4089,8 @@
   "AREA": "DEIRA - HOR AL ANZ",
   "ADDRESS": "ABU BAKAR AL SIDDIQUI ROAD,HOR AL ANZ",
   "TELEPHONE": "04-2624500",
-  "lat": "25.718253",
-  "lon": "56.074986",
+  "lat": "25.2714602",
+  "lon": "55.332485",
   "confidence": "0.05625",
   "formatted": "Al Yafnah Road, RK, United Arab Emirates",
   "Index": 246,
@@ -4099,7 +4099,8 @@
   "ZAVIS NAME": "Kims Medical Centre",
   "ZAVIS ADDRESS": "Next to Abu Baker Al Siddique metro Station - Salah Al Din St - Hor Al Anz - Deira - Dubai - United Arab Emirates",
   "ZAVIS PHONE": "+971 4 262 4500",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2714602,55.332485",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "DXB",
@@ -4876,18 +4877,11 @@
   "AREA": "AL QUOZ 3",
   "ADDRESS": "SULAIMAN EBRAHIM BUILDING, NEAR SERVEAU ACCOMADATION,AL QUOZ 3",
   "TELEPHONE": "04-3361355",
-  "lat": "25.1531905",
-  "lon": "55.2436013",
+  "lat": "25.117671",
+  "lon": "55.2357375",
   "confidence": "0",
   "formatted": "Two Guys Home Furnishings LLC, 23 22 Street, Al Quoz Community, Dubai, DU, United Arab Emirates",
-  "Index": 291,
-  "ZAVIS ID": "absolute-wellness-medical-centre-llc-dubai",
-  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/clinics/absolute-wellness-medical-centre-llc-dubai",
-  "ZAVIS NAME": "Absolute Wellness Medical Centre",
-  "ZAVIS ADDRESS": "SALMAN EBRAHIM, 12 Street 41, AL QOUZ INDUSTRIAL THIRD, Dubai",
-  "ZAVIS PHONE": "+971 54 206 8485",
-  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.1531905,55.2436013",
-  "coordinate_source": "Zavis"
+  "Index": 291
  },
  {
   "P": "DXB",
@@ -11462,8 +11456,8 @@
   "AREA": "AL BUSTAN",
   "ADDRESS": "CITY MART BUILDING, OPP-KUWAIT HOSPITAL, LULU HYPER MARKET, KUWAITE HOSPITAL STREET, AL BUSTAN, AJMAN",
   "TELEPHONE": "06-7474900",
-  "lat": "24.4884346",
-  "lon": "54.3665134",
+  "lat": "25.4083725",
+  "lon": "55.4437055",
   "confidence": "0.0786155325443787",
   "formatted": "Zayed The First St / Lifeline Hospital, Zayed The First Street, Al Danah, Abu Dhabi, AZ, United Arab Emirates",
   "Index": 697,
@@ -11472,7 +11466,8 @@
   "ZAVIS NAME": "Emirates Pharmacy",
   "ZAVIS ADDRESS": "CC5V+8FW - Al Bustan - ليوارة 1 - Ajman - United Arab Emirates",
   "ZAVIS PHONE": "+971 6 747 4900",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.4083725,55.4437055",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "AJM",
@@ -14507,8 +14502,8 @@
   "AREA": "DEIRA",
   "ADDRESS": "GROUND FLOOR, REEF MALL,SALAH AL DIN ROAD, DEIRA, NEAR TO ANSAR GALLERY",
   "TELEPHONE": "04-2239805",
-  "lat": "25.718253",
-  "lon": "56.074986",
+  "lat": "25.2695303",
+  "lon": "55.3226172",
   "confidence": "",
   "formatted": "Al Yafnah Road, RK, United Arab Emirates",
   "Index": 876,
@@ -14517,7 +14512,8 @@
   "ZAVIS NAME": "Panacea Pharmacy Reef",
   "ZAVIS ADDRESS": "Al Reef Mall, 12b Street 31, AL MURQABAT, Dubai",
   "ZAVIS PHONE": "+971 4 223 9805",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2695303,55.3226172",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "DXB",
@@ -15024,11 +15020,18 @@
   "AREA": "KARAMA",
   "ADDRESS": "NEAR UNION MEDICAL CENTRE - KARAMA",
   "TELEPHONE": "04-3969469",
-  "lat": "25.2482136",
-  "lon": "55.3050609",
+  "lat": "25.0389475",
+  "lon": "55.1657148",
   "confidence": "area_match",
   "formatted": "الكرامة, دبي, الإمارات العربية المتحدة",
-  "Index": 904
+  "Index": 904,
+  "ZAVIS ID": "al-shifa-pharmacy-br-of-aster-pharmacies-group-llc-dubai",
+  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/pharmacy/al-shifa-pharmacy-br-of-aster-pharmacies-group-llc-dubai",
+  "ZAVIS NAME": "AL Shifa Pharmacy",
+  "ZAVIS ADDRESS": "Jumeirah Park Club House, G1 Street, AL THANYAH FIFTH, Dubai",
+  "ZAVIS PHONE": "+971 4 422 1521",
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.0389475,55.1657148",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "DXB",
@@ -15202,18 +15205,11 @@
   "AREA": "JUMEIRAH",
   "ADDRESS": "PVE-G-02, PALM VIEWS EAST BUILDING, PALM JUMEIRA",
   "TELEPHONE": "04-4221521",
-  "lat": "25.0389975",
-  "lon": "55.1660872",
+  "lat": "25.11653175",
+  "lon": "55.1365091453729",
   "confidence": "",
   "formatted": "Palm Views East, Palm Jumeirah, Dubai, United Arab Emirates",
-  "Index": 915,
-  "ZAVIS ID": "aster-pharmacy-214-br-of-aster-pharmacies-group-l-l-c-dubai",
-  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/pharmacy/aster-pharmacy-214-br-of-aster-pharmacies-group-l-l-c-dubai",
-  "ZAVIS NAME": "Aster Pharmacy 214",
-  "ZAVIS ADDRESS": "Azizi Riviera 44 - Shop No. 11 - Al Merkadh - Dubai - United Arab Emirates",
-  "ZAVIS PHONE": "+971 4 422 1521",
-  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.0389975,55.1660872",
-  "coordinate_source": "Zavis"
+  "Index": 915
  },
  {
   "P": "DXB",
@@ -16684,18 +16680,11 @@
   "AREA": "AL QUOZ",
   "ADDRESS": "AL QUOZ,DUBAI,UAE",
   "TELEPHONE": "04-3307120",
-  "lat": "25.156434",
-  "lon": "55.2476639",
+  "lat": "25.1626708",
+  "lon": "55.253445581315",
   "confidence": "",
   "formatted": "Al Quoz, Al Goaz, Dubai, United Arab Emirates",
-  "Index": 1008,
-  "ZAVIS ID": "alquoz-advanced-care-pharmacy-l-l-c-dubai",
-  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/pharmacy/alquoz-advanced-care-pharmacy-l-l-c-dubai",
-  "ZAVIS NAME": "Alquoz Advanced Care Pharmacy",
-  "ZAVIS ADDRESS": "GRAND CITY MALL, 25 Street 1, AL QOUZ INDUSTRIAL SECOND, Dubai",
-  "ZAVIS PHONE": "+971 4 330 7120",
-  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.156434,55.2476639",
-  "coordinate_source": "Zavis"
+  "Index": 1008
  },
  {
   "P": "DXB",
@@ -17055,17 +17044,17 @@
   "AREA": "MUHAISNAH 4TH",
   "ADDRESS": "MEZINENE FLOOR, TALAL PLAZA BLDG, MUHAISNAH 4TH, DUBAI,UAE",
   "TELEPHONE": "04-3952774",
-  "lat": "25.2803675",
-  "lon": "55.4067151",
+  "lat": "25.2805098",
+  "lon": "55.4069123",
   "confidence": "",
   "formatted": "2020 Plaza, Expo 2020 Dubai, DU, United Arab Emirates",
   "Index": 1029,
-  "ZAVIS ID": "arin-care-poly-clinic-dubai",
-  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/clinics/arin-care-poly-clinic-dubai",
-  "ZAVIS NAME": "Arin Care Poly Clinic",
+  "ZAVIS ID": "arin-care-pharmacy-dubai",
+  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/pharmacy/arin-care-pharmacy-dubai",
+  "ZAVIS NAME": "ARIN Care Pharmacy",
   "ZAVIS ADDRESS": "Shop # 5 Talal Plaza Mall - محيصنة الرابعة - محيصنة ٤ - دبي - United Arab Emirates",
   "ZAVIS PHONE": "+971 4 395 2774",
-  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2803675,55.4067151",
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2805098,55.4069123",
   "coordinate_source": "Zavis"
  },
  {
@@ -21075,8 +21064,8 @@
   "AREA": "SHARJAH",
   "ADDRESS": "MUWAILAH",
   "TELEPHONE": "06-5345663",
-  "lat": "25.3461498",
-  "lon": "55.4210633",
+  "lat": "25.2857295",
+  "lon": "55.4513367",
   "confidence": "area_match",
   "formatted": "مدينة الشارقة, الشارقة, الإمارات العربية المتحدة",
   "Index": 1278,
@@ -21085,7 +21074,8 @@
   "ZAVIS NAME": "AL Inaya AL Mutaqadimah Pharmacy",
   "ZAVIS ADDRESS": "Al Reem 1 - Muwaileh Commercial - Industrial Area - Sharjah - United Arab Emirates",
   "ZAVIS PHONE": "+971 6 534 5663",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2857295,55.4513367",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "SHJ",
@@ -24944,8 +24934,8 @@
   "AREA": "AL WAHDA MALL",
   "ADDRESS": "OPPOSITE AL WAHDA MALL, DEFECNE ROAD, ABU DHABI",
   "TELEPHONE": "02-6418383",
-  "lat": "24.4703188",
-  "lon": "54.3726757",
+  "lat": "24.4712489",
+  "lon": "54.3713306",
   "confidence": "area_match",
   "formatted": "Al Wahda Mall, شارع طَوِي العِقَيلة, الوحدة, أبو ظبي, أبوظبي, أبو ظبي, الإمارات العربية المتحدة",
   "Index": 1514,
@@ -24954,7 +24944,8 @@
   "ZAVIS NAME": "Mariam Pharmacy",
   "ZAVIS ADDRESS": "F9CC+FFV - Al Danah - E18 01 - Abu Dhabi - United Arab Emirates",
   "ZAVIS PHONE": "+971 2 641 8776",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=24.4712489,54.3713306",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "AUH",
@@ -28727,8 +28718,8 @@
   "AREA": "AL QUSAIS 4",
   "ADDRESS": "SHOPE.NO 7,GHAYETH BUILDING, AL QUSAIS 4, DUBAI, UAE",
   "TELEPHONE": "04-2658607",
-  "lat": "25.2701436",
-  "lon": "55.3859389",
+  "lat": "25.2930635",
+  "lon": "55.4048703",
   "confidence": "area_match",
   "formatted": "القصيص, دبي, الإمارات العربية المتحدة",
   "Index": 1739,
@@ -28737,7 +28728,8 @@
   "ZAVIS NAME": "Najmat Alsaqr Clinic",
   "ZAVIS ADDRESS": "GHEYATH BUILDING, Beirut Street 101/2, AL QUSAIS INDUSTRIAL FOURTH, Dubai",
   "ZAVIS PHONE": "+971 4 265 8607",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2930635,55.4048703",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "DXB",
@@ -31945,18 +31937,11 @@
   "AREA": "AL QUOZ",
   "ADDRESS": "ROOM NO -1, FAKHRUDDIN PROPERTIES BUILDING, BEHIND NATIONAL CEMENT FACTORY, INDUSTRIAL AREA-3, AL QUOZ, DUBAI - UAE",
   "TELEPHONE": "04-3307120",
-  "lat": "25.156434",
-  "lon": "55.2476639",
+  "lat": "25.1595803",
+  "lon": "55.2540203",
   "confidence": "area_match",
   "formatted": "القوز, دبي, الإمارات العربية المتحدة",
-  "Index": 1936,
-  "ZAVIS ID": "alquoz-advanced-care-pharmacy-l-l-c-dubai",
-  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/pharmacy/alquoz-advanced-care-pharmacy-l-l-c-dubai",
-  "ZAVIS NAME": "Alquoz Advanced Care Pharmacy",
-  "ZAVIS ADDRESS": "GRAND CITY MALL, 25 Street 1, AL QOUZ INDUSTRIAL SECOND, Dubai",
-  "ZAVIS PHONE": "+971 4 330 7120",
-  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.156434,55.2476639",
-  "coordinate_source": "Zavis"
+  "Index": 1936
  },
  {
   "P": "DXB",
@@ -32561,11 +32546,18 @@
   "AREA": "DIC",
   "ADDRESS": "SAIH SHUHAIB 3, LV2 C5,DUBAI INDUSTRIAL CITY (DIC),DUBAI,UAE",
   "TELEPHONE": "050-2900239",
-  "lat": "24.8479134",
-  "lon": "55.0718181",
+  "lat": "25.2714872",
+  "lon": "55.3104859",
   "confidence": "area_match",
   "formatted": "DiC, D56, مدينة دبي الصناعية, سيح شعيب 3, دبي, الإمارات العربية المتحدة",
-  "Index": 1974
+  "Index": 1974,
+  "ZAVIS ID": "abeer-al-noor-pharmacy-llc-dubai",
+  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/pharmacy/abeer-al-noor-pharmacy-llc-dubai",
+  "ZAVIS NAME": "Abeer Al Noor Pharmacy",
+  "ZAVIS ADDRESS": "Al Rashidiya, 12 Street 24/1, Al Rashidiya, Dubai",
+  "ZAVIS PHONE": "+971 4 589 5458",
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2714872,55.3104859",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "DXB",
@@ -33130,8 +33122,8 @@
   "AREA": "JUMERIAH VILLAGE",
   "ADDRESS": "JUMERIAH VILLAGE 2 SUMMER CLUSTER",
   "TELEPHONE": "04-4233733",
-  "lat": "25.066266",
-  "lon": "55.2106154",
+  "lat": "25.0608223",
+  "lon": "55.2015732",
   "confidence": "area_match",
   "formatted": "Jumeriah Clinic, كحيل بوليفارد, قرية جميرا الدائرية, البرشاء جنوب 4, دبي, الإمارات العربية المتحدة",
   "Index": 2006,
@@ -33140,7 +33132,8 @@
   "ZAVIS NAME": "Health First Pharmacy 9",
   "ZAVIS ADDRESS": "Summer 2, Qmasha Street, Barsha Suoth - 4, Dubai",
   "ZAVIS PHONE": "+971 4 423 3733",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.0608223,55.2015732",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "DXB",
@@ -33925,18 +33918,11 @@
   "AREA": "AL QUSAIS",
   "ADDRESS": "SHOP-1, 21 42ND ST, AL QUSAIS, AL TWAR FOURTH, DUBAI",
   "TELEPHONE": "04-2948086",
-  "lat": "25.258256",
-  "lon": "55.402463",
+  "lat": "25.2701436",
+  "lon": "55.3859389",
   "confidence": "area_match",
   "formatted": "القصيص, دبي, الإمارات العربية المتحدة",
-  "Index": 2056,
-  "ZAVIS ID": "adams-pharmacy-llc-dubai",
-  "ZAVIS URL": "https://www.zavis.ai/directory/dubai/pharmacy/adams-pharmacy-llc-dubai",
-  "ZAVIS NAME": "Adams Pharmacy",
-  "ZAVIS ADDRESS": "Makeen Residence 1, خلف مسجد الشيخ راشد , AL WARQA SECOND, Dubai",
-  "ZAVIS PHONE": "+971 50 760 7488",
-  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.258256,55.402463",
-  "coordinate_source": "Zavis"
+  "Index": 2056
  },
  {
   "P": "DXB",
@@ -37935,8 +37921,8 @@
   "AREA": "SHARJAH",
   "ADDRESS": "SHOP NO : 2, GROUND FLOOR, AL REEM BUILDING I, MUWAILAH, NEAR NATIONAL PAINTS,MALIHA ROAD (SHARJAH-KALBA ROAD), SHARJAH - UAE.",
   "TELEPHONE": "06-5345663",
-  "lat": "25.3461498",
-  "lon": "55.4210633",
+  "lat": "25.2857295",
+  "lon": "55.4513367",
   "confidence": "area_match",
   "formatted": "مدينة الشارقة, الشارقة, الإمارات العربية المتحدة",
   "Index": 2322,
@@ -37945,7 +37931,8 @@
   "ZAVIS NAME": "AL Inaya AL Mutaqadimah Pharmacy",
   "ZAVIS ADDRESS": "Al Reem 1 - Muwaileh Commercial - Industrial Area - Sharjah - United Arab Emirates",
   "ZAVIS PHONE": "+971 6 534 5663",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2857295,55.4513367",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "SHJ",

@@ -9,3 +9,5 @@
 # Local agent instructions and skill files
 AGENTS.md
 skills/
+__pycache__/
+V2/

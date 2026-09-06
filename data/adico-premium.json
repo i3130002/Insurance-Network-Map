@@ -3189,8 +3189,8 @@
   "AREA": "AL WAHDA MALL",
   "ADDRESS": "OPPOSITE AL WAHDA MALL, DEFECNE ROAD, ABU DHABI",
   "TELEPHONE": "02-6418383",
-  "lat": "24.4703188",
-  "lon": "54.3726757",
+  "lat": "24.4712489",
+  "lon": "54.3713306",
   "confidence": "area_match",
   "formatted": "Al Wahda Mall, شارع طَوِي العِقَيلة, الوحدة, أبو ظبي, أبوظبي, أبو ظبي, الإمارات العربية المتحدة",
   "Index": 1514,
@@ -3199,7 +3199,8 @@
   "ZAVIS NAME": "Mariam Pharmacy",
   "ZAVIS ADDRESS": "F9CC+FFV - Al Danah - E18 01 - Abu Dhabi - United Arab Emirates",
   "ZAVIS PHONE": "+971 2 641 8776",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=24.4712489,54.3713306",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "AUH",

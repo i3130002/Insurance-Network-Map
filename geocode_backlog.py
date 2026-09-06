@@ -17,6 +17,8 @@ import time
 import urllib.parse
 import urllib.request
 
+csv.field_size_limit(10_000_000)
+
 ROOT = os.path.dirname(os.path.abspath(__file__))
 REG = os.path.join(ROOT, 'sources', 'merged-registry.json')
 BACKLOG = os.path.join(ROOT, 'data', 'needs-geocoding.json')

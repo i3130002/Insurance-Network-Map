@@ -3915,8 +3915,8 @@
   "AREA": "AL BUSTAN",
   "ADDRESS": "CITY MART BUILDING, OPP-KUWAIT HOSPITAL, LULU HYPER MARKET, KUWAITE HOSPITAL STREET, AL BUSTAN, AJMAN",
   "TELEPHONE": "06-7474900",
-  "lat": "24.4884346",
-  "lon": "54.3665134",
+  "lat": "25.4083725",
+  "lon": "55.4437055",
   "confidence": "0.0786155325443787",
   "formatted": "Zayed The First St / Lifeline Hospital, Zayed The First Street, Al Danah, Abu Dhabi, AZ, United Arab Emirates",
   "Index": 697,
@@ -3925,7 +3925,8 @@
   "ZAVIS NAME": "Emirates Pharmacy",
   "ZAVIS ADDRESS": "CC5V+8FW - Al Bustan - ليوارة 1 - Ajman - United Arab Emirates",
   "ZAVIS PHONE": "+971 6 747 4900",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.4083725,55.4437055",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "AJM",
@@ -7253,8 +7254,8 @@
   "AREA": "SHARJAH",
   "ADDRESS": "MUWAILAH",
   "TELEPHONE": "06-5345663",
-  "lat": "25.3461498",
-  "lon": "55.4210633",
+  "lat": "25.2857295",
+  "lon": "55.4513367",
   "confidence": "area_match",
   "formatted": "مدينة الشارقة, الشارقة, الإمارات العربية المتحدة",
   "Index": 1278,
@@ -7263,7 +7264,8 @@
   "ZAVIS NAME": "AL Inaya AL Mutaqadimah Pharmacy",
   "ZAVIS ADDRESS": "Al Reem 1 - Muwaileh Commercial - Industrial Area - Sharjah - United Arab Emirates",
   "ZAVIS PHONE": "+971 6 534 5663",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2857295,55.4513367",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "SHJ",
@@ -10198,8 +10200,8 @@
   "AREA": "SHARJAH",
   "ADDRESS": "SHOP NO : 2, GROUND FLOOR, AL REEM BUILDING I, MUWAILAH, NEAR NATIONAL PAINTS,MALIHA ROAD (SHARJAH-KALBA ROAD), SHARJAH - UAE.",
   "TELEPHONE": "06-5345663",
-  "lat": "25.3461498",
-  "lon": "55.4210633",
+  "lat": "25.2857295",
+  "lon": "55.4513367",
   "confidence": "area_match",
   "formatted": "مدينة الشارقة, الشارقة, الإمارات العربية المتحدة",
   "Index": 2322,
@@ -10208,7 +10210,8 @@
   "ZAVIS NAME": "AL Inaya AL Mutaqadimah Pharmacy",
   "ZAVIS ADDRESS": "Al Reem 1 - Muwaileh Commercial - Industrial Area - Sharjah - United Arab Emirates",
   "ZAVIS PHONE": "+971 6 534 5663",
-  "ZAVIS MAPS URL": ""
+  "ZAVIS MAPS URL": "https://www.google.com/maps?q=25.2857295,55.4513367",
+  "coordinate_source": "Zavis"
  },
  {
   "P": "SHJ",
