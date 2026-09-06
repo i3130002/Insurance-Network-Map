@@ -31,6 +31,12 @@
             width: 100%; padding: 8px; border: 1px solid #ccc; border-radius: 6px;
             font-size: .9rem; margin-bottom: 10px;
         }
+        .upload-box { border-top: 1px solid #eee; margin-top: 10px; padding-top: 10px; }
+        .upload-box h2 { font-size: .9rem; margin: 0 0 6px; }
+        .upload-box small { color: #666; line-height: 1.35; display: block; margin-bottom: 6px; }
+        .upload-box button { padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px; background: #f8f9fa; cursor: pointer; }
+        .upload-box select { margin-bottom: 6px; }
+        #uploadMapping { display: none; }
         .reset-filters {
             padding: 6px 10px; border: 1px solid #ccc; border-radius: 6px;
             background: #f8f9fa; cursor: pointer; font-size: .8rem;
@@ -54,7 +60,7 @@
         @media (max-width: 520px) {
             .panel {
                 top: 8px; left: 8px; right: 8px; width: auto;
-                max-height: calc(100vh - 16px); padding: 12px;
+                max-height: 50vh; padding: 12px;
             }
             .panel h1 { font-size: 1rem; }
             .panel select, .panel input { padding: 10px; font-size: 1rem; }
@@ -81,6 +87,13 @@
         <label for="typeFilter">Provider type:</label>
         <select id="typeFilter" disabled><option value="">All provider types</option></select>
         <button id="resetFilters" class="reset-filters" type="button" disabled>Reset filters</button>
+        <div class="upload-box">
+            <h2>Use your own network file</h2>
+            <small>Upload CSV, XLS, or XLSX. Choose the columns for provider name, phone, address, emirate, and type.</small>
+            <input id="networkUpload" type="file" accept=".csv,.xls,.xlsx,text/csv" />
+            <div id="uploadMapping"></div>
+            <button id="matchUpload" type="button" hidden>Match and show providers</button>
+        </div>
         <div id="status" role="status" aria-live="polite"></div>
         <div class="source-note">
             <b>Data sources:</b>
@@ -113,6 +126,7 @@
             integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
             crossorigin=""></script>
     <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+    <script src="https://cdn.sheetjs.com/xlsx-0.20.3/package/dist/xlsx.full.min.js"></script>
     <script>
         'use strict';
 
@@ -137,7 +151,14 @@
         let cluster = null;   // recreated per plan load
         let selectedPlan = [];
         let selectedPlanNet = null;
+        let selectionVersion = 0;
         let plansByInsurer = {};
+        let uploadRows = [];
+        let uploadColumns = [];
+        let registryProviders = [];
+        let enrichedByIndex = {};
+        let zavisByPhone = {};
+        let zavisByName = {};
 
         // ---------- helpers ----------
         const statusEl = document.getElementById('status');
@@ -158,6 +179,88 @@
         }
 
         function typeColor(type) { return TYPE_COLORS[type] || '#6c757d'; }
+
+        function norm(value) {
+            return String(value || '').toUpperCase().replace(/[^A-Z0-9]/g, '');
+        }
+
+        function tokenSet(value) {
+            return new Set(String(value || '').toUpperCase().match(/[A-Z0-9]+/g) || []);
+        }
+
+        function overlap(left, right) {
+            const a = tokenSet(left), b = tokenSet(right);
+            return a.size && b.size ? [...a].filter(token => b.has(token)).length / Math.max(a.size, b.size) : 0;
+        }
+
+        async function loadMatchSources() {
+            const [registry, enriched, zavisCsv] = await Promise.all([
+                fetch('data/moh-complete.json').then(response => response.json()),
+                fetch('data/axa-basic.json').then(response => response.json()).catch(() => []),
+                fetch('sources/csv/zavis-providers-enriched.csv').then(response => response.ok ? response.text() : '').catch(() => '')
+            ]);
+            registryProviders = registry;
+            enrichedByIndex = Object.fromEntries(enriched.map(provider => [provider.Index, provider]));
+            if (zavisCsv) {
+                const sheet = XLSX.read(zavisCsv, { type: 'string' }).Sheets.Sheet1;
+                const zavis = XLSX.utils.sheet_to_json(sheet, { defval: '' });
+                zavisByPhone = Object.fromEntries(zavis.filter(row => norm(row.phone)).map(row => [norm(row.phone), row]));
+                zavisByName = Object.fromEntries(zavis.filter(row => norm(row.name)).map(row => [norm(row.name), row]));
+            }
+        }
+
+        function bestRegistryMatch(row, mapping) {
+            const name = row[mapping.name], phone = row[mapping.phone], address = row[mapping.address];
+            let best = null, bestScore = 0;
+            registryProviders.forEach(provider => {
+                const extra = enrichedByIndex[provider.Index] || {};
+                const zavis = zavisByPhone[norm(phone)] || zavisByName[norm(name)] || {};
+                const phoneMatch = norm(phone) && norm(phone) === norm(provider.TELEPHONE || extra['ZAVIS PHONE'] || zavis.phone) ? 0.35 : 0;
+                const nameScore = Math.max(overlap(name, provider['PROVIDER NAME']), overlap(name, extra['ZAVIS NAME']), overlap(name, zavis.name)) * 0.55;
+                const addressScore = Math.max(overlap(address, provider.ADDRESS), overlap(address, extra['ZAVIS ADDRESS']), overlap(address, zavis.address)) * 0.1;
+                const score = phoneMatch + nameScore + addressScore;
+                if (score > bestScore) { best = { ...provider, ...extra, 'ZAVIS NAME': zavis.name, 'ZAVIS PHONE': zavis.phone, 'ZAVIS ADDRESS': zavis.address, 'ZAVIS URL': zavis.url, 'ZAVIS RATING': zavis.rating, 'ZAVIS REVIEWS': zavis.reviews, 'ZAVIS INSURANCE': zavis.insurance, 'ZAVIS LANGUAGES': zavis.languages }; bestScore = score; }
+            });
+            return bestScore >= 0.55 ? best : null;
+        }
+
+        function showUploadMapping() {
+            const box = document.getElementById('uploadMapping');
+            const fields = [['name', 'Provider name', true], ['phone', 'Phone', false], ['address', 'Address', false], ['emirate', 'Emirate', false], ['type', 'Provider type', false]];
+            box.innerHTML = fields.map(([key, label, required]) => `<label>${label}${required ? ' *' : ''}</label><select data-upload-field="${key}"><option value="">-- Not provided --</option>${uploadColumns.map(column => `<option value="${esc(column)}">${esc(column)}</option>`).join('')}</select>`).join('');
+            box.style.display = 'block';
+            document.getElementById('matchUpload').hidden = false;
+        }
+
+        async function readUpload(file) {
+            const buffer = await file.arrayBuffer();
+            const workbook = XLSX.read(buffer, { type: 'array' });
+            const sheet = workbook.Sheets[workbook.SheetNames[0]];
+            uploadRows = XLSX.utils.sheet_to_json(sheet, { defval: '' });
+            uploadColumns = uploadRows.length ? Object.keys(uploadRows[0]) : [];
+            if (!uploadRows.length || !uploadColumns.length) throw new Error('The uploaded file has no data rows.');
+            showUploadMapping();
+            setStatus(`${uploadRows.length.toLocaleString()} uploaded rows ready for column mapping`);
+        }
+
+        async function matchUploadedNetwork() {
+            const mapping = Object.fromEntries([...document.querySelectorAll('[data-upload-field]')].map(select => [select.dataset.uploadField, select.value]));
+            if (!mapping.name) { setStatus('Choose the provider-name column first.', true); return; }
+            clearPlanView('Matching uploaded providers…');
+            const version = selectionVersion;
+            try {
+                if (!registryProviders.length) await loadMatchSources();
+            } catch (error) {
+                if (version !== selectionVersion) return;
+                throw error;
+            }
+            if (version !== selectionVersion) return;
+            selectedPlan = uploadRows.map(row => bestRegistryMatch(row, mapping)).filter(Boolean);
+            selectedPlanNet = null;
+            populateFilters();
+            renderProviders();
+            setStatus(`${selectedPlan.length.toLocaleString()} of ${uploadRows.length.toLocaleString()} uploaded rows matched and shown`);
+        }
 
         function popupHtml(e, layer, chain) {
             const em = EMIRATE_NAMES[e.P] || e.P || '—';
@@ -236,6 +339,7 @@
         }
 
         function clearPlanView(message) {
+            selectionVersion++;
             if (cluster) { map.removeLayer(cluster); cluster = null; }
             selectedPlan = [];
             selectedPlanNet = null;
@@ -339,24 +443,16 @@
         }
 
         async function loadPlan(selection) {
+            clearPlanView(selection ? 'Loading…' : 'Select an insurance plan');
             if (!selection) return;
+            const version = selectionVersion;
             const [file, planId] = selection.split('|');
-            setStatus('Loading…');
-            if (cluster) { map.removeLayer(cluster); cluster = null; }
-            selectedPlan = [];
-            selectedPlanNet = null;
-            document.getElementById('resetFilters').disabled = true;
-            document.getElementById('providerSearch').disabled = true;
-            ['emirateFilter', 'typeFilter'].forEach(id => {
-                const select = document.getElementById(id);
-                select.disabled = true;
-                select.value = '';
-            });
 
             try {
                 const res = await fetch(file);
                 if (!res.ok) throw new Error(`HTTP ${res.status} — ${file}`);
                 const data = await res.json();
+                if (version !== selectionVersion) return;
 
                 selectedPlan = data;
                 selectedPlanNet = (netIndex && planId) ? netIndex[planId] : null;
@@ -364,6 +460,7 @@
                 renderProviders();
                 if (cluster.getLayers().length) map.fitBounds(cluster.getBounds().pad(0.05));
             } catch (err) {
+                if (version !== selectionVersion) return;
                 setStatus(`Error: ${err.message}`, true);
                 console.error(err);
             }
@@ -377,6 +474,15 @@
         ['emirateFilter', 'typeFilter'].forEach(id =>
             document.getElementById(id).addEventListener('change', renderProviders));
         document.getElementById('resetFilters').addEventListener('click', resetFilters);
+        document.getElementById('networkUpload').addEventListener('change', async event => {
+            const file = event.target.files[0];
+            if (!file) return;
+            try { await readUpload(file); }
+            catch (error) { setStatus(`Upload error: ${error.message}`, true); }
+        });
+        document.getElementById('matchUpload').addEventListener('click', () => {
+            matchUploadedNetwork().catch(error => setStatus(`Match error: ${error.message}`, true));
+        });
 
         // ---------- boot ----------
         loadNetworkIndex().then(loadPlans);

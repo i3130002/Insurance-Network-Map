@@ -17,6 +17,14 @@ class InsuranceSelectionFlowTest(unittest.TestCase):
         self.assertIn("getElementById('insurerSelect').addEventListener", self.html)
         self.assertIn("e['ZAVIS URL']", self.html)
 
+    def test_uploaded_network_flow_is_available(self) -> None:
+        """Require upload, mapping, and matching controls in the static UI."""
+        self.assertIn('id="networkUpload"', self.html)
+        self.assertIn('accept=".csv,.xls,.xlsx,text/csv"', self.html)
+        self.assertIn('id="uploadMapping"', self.html)
+        self.assertIn('matchUploadedNetwork', self.html)
+        self.assertIn('loadMatchSources', self.html)
+
 
 if __name__ == "__main__":
     unittest.main()
