@@ -6,8 +6,9 @@ Interactive map of UAE healthcare providers, filterable by insurance plan.
 
 ## Features
 
-- 2,390 unique providers (clinics, hospitals, pharmacies, dental, diagnostic, daycare) across all 8 emirates
-- 56 selectable plans from 8 insurers, including 41 Takafol Emarat network variants
+- 2,390 registry providers, including 2,284 with usable map coordinates, across eight location codes, including Al Ain
+- 705 selectable plans under 247 company labels; some labels include network tiers and need consolidation
+- 492 plans use official-source matching; 213 retain chain or geographic approximations
 - Marker clustering for performance; color-coded provider types
 - Popups with Google Maps link + AI search query per provider
 - Popups include a phone-first Zavis directory search link for provider cross-checking
@@ -18,7 +19,7 @@ Interactive map of UAE healthcare providers, filterable by insurance plan.
 
 | File | Contents |
 |---|---|
-| `data/moh-complete.json` | Full provider registry (deduped, valid coordinates) |
+| `data/moh-complete.json` | Full provider registry, including records without usable coordinates |
 | `data/needs-geocoding.json` | Providers still missing reliable coordinates (106) |
 | `data/network-unmatched.json` | Official-network records not matched to the registry, for review |
 | `data/plans.json` | Plan metadata (name, insurer, coverage, emirates, provider count) |
@@ -35,16 +36,18 @@ Emirate codes: AJM, AUH, DXB, FUJ, RAK, SHJ, UMQ, ALAIN
 
 ### Plan network caveat
 
-Most legacy per-plan files filter the full registry by the plan's **emirate
-coverage**. Takafol Emarat's 41 imported network lists and the ADNIC directory
-use official name/phone matches where the provider registry has an identity.
+After network assignment, 492 plans use official-source name or phone matches.
+The other 213 plans retain chain or geographic approximations. These matches
+do not establish policy eligibility. There are 15 plans with no mapped providers.
 Unmatched source rows remain in `data/network-unmatched.json` for review.
+See [Review.md](Review.md) for the current release checks and remaining work.
 
 ## Rebuilding data
 
 ```bash
 python3 build_data.py
 python3 assign_networks.py
+python3 validate_data.py
 # Refresh the public Zavis facility source
 python3 extract_zavis.py --output sources/csv/zavis-providers.csv --workers 2
 ```
