@@ -23,6 +23,9 @@ import json
 import os
 import re
 from collections import defaultdict
+from pathlib import Path
+
+from import_takafol_networks import normalize_emirate
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
 NETWORKS_DIR = os.path.join(ROOT, 'sources', 'networks')
@@ -99,6 +102,8 @@ def phone_values(value):
 
 def load_official_networks():
     """Load insurer CSVs and imported Takafol network members."""
+    # Extracted workbook cells can exceed the CSV module's 128 KiB default.
+    csv.field_size_limit(10_000_000)
     official = {}  # source key -> {'members': set, 'phones': set}
     if not os.path.isdir(NETWORKS_DIR):
         return official
@@ -108,18 +113,33 @@ def load_official_networks():
         source_key = os.path.splitext(fn)[0]
         members = set()
         phones = set()
+        tier_members = defaultdict(lambda: {'members': set(), 'phones': set()})
         with open(os.path.join(NETWORKS_DIR, fn), encoding='utf-8-sig') as f:
             for row in csv.DictReader(f):
                 name = norm_name(row.get('PROVIDER NAME', ''))
                 em = (row.get('EMIRATE') or '').strip().upper()
+                em = normalize_emirate(em) or em
                 if name and em:
                     members.add((name, em))
                 for phone in phone_values(row.get('TELEPHONE', '')):
                     if em:
                         phones.add((phone, em))
+                tiers = re.split(r'\s*,\s*', row.get('NETWORK_TIER', ''))
+                for tier in tiers:
+                    tier = re.sub(r'[^A-Z0-9]+', '-', tier.upper()).strip('-')
+                    if tier:
+                        tier = {'G-PLUS': 'GOLD-PLUS'}.get(tier, tier)
+                        tier_members[tier]['members'].add((name, em))
+                        tier_members[tier]['phones'].update(
+                            (phone, em) for phone in phone_values(row.get('TELEPHONE', ''))
+                        )
         if members:
             official[source_key] = {'members': members, 'phones': phones}
             print(f'  official list: {source_key}: {len(members)} facilities')
+            for tier, source in tier_members.items():
+                official[f'{source_key.lower()}-{tier.lower()}'] = source
+                print(f'  official list: {source_key.lower()}-{tier.lower()}: '
+                      f'{len(source["members"])} facilities')
 
     takafol_path = os.path.join(
         ROOT, 'sources', 'csv', 'takafol-network-members.csv')
@@ -129,6 +149,7 @@ def load_official_networks():
                 source_key = (row.get('NETWORK_ID') or '').strip()
                 name = norm_name(row.get('PROVIDER NAME', ''))
                 em = (row.get('EMIRATE') or '').strip().upper()
+                em = normalize_emirate(em) or em
                 if not source_key or not em:
                     continue
                 source = official.setdefault(source_key, {'members': set(), 'phones': set()})
@@ -162,10 +183,8 @@ def coord_ok(provider):
 
 def main():
     # Use the generated registry so indexes match the plan JSON files.
-    registry = json.load(open(os.path.join(
-        ROOT, 'data', 'moh-complete.json'), encoding='utf-8'))
-    plans = json.load(open(os.path.join(
-        ROOT, 'data', 'plans.json'), encoding='utf-8'))
+    registry = json.loads((Path(ROOT) / 'data/moh-complete.json').read_text(encoding='utf-8'))
+    plans = json.loads((Path(ROOT) / 'data/plans.json').read_text(encoding='utf-8'))
 
     print('Loading official network lists...')
     official = load_official_networks()
@@ -193,8 +212,11 @@ def main():
         members = []
         chain_allow = set(INSURER_CHAINS.get(insurer, []))
         source_key = plan.get('network_id') or insurer
+        if not plan.get('network_id') and insurer == 'ADNIC' and plan['id'].startswith('adnic-'):
+            source_key = plan['id']
         official_source = official.get(source_key)
         official_set = official_source['members'] if official_source else None
+        plan['network_source'] = 'official' if official_source is not None else 'chain+geo'
         official_phones = official_source['phones'] if official_source else set()
 
         for r in registry:
@@ -223,10 +245,9 @@ def main():
                 member['index'] for member in members if member['layer'] == 'official'
             }
             plan_path = os.path.join(ROOT, plan['file'])
-            with open(plan_path, encoding='utf-8') as f:
-                plan_providers = json.load(f)
             plan_providers = [
-                provider for provider in plan_providers
+                {key: value for key, value in provider.items() if key != '_chain'}
+                for provider in registry
                 if provider['Index'] in official_indexes
             ]
             with open(plan_path, 'w', encoding='utf-8') as f:
@@ -248,9 +269,6 @@ def main():
     # Annotate plans.json with layer counts
     for plan in plans:
         plan['layers'] = dict(layers[plan['id']])
-        source_key = plan.get('network_id') or plan['insurer']
-        plan['network_source'] = ('official' if source_key in official
-                                  else 'chain+geo')
     with open(os.path.join(ROOT, 'data', 'plans.json'), 'w',
               encoding='utf-8') as f:
         json.dump(plans, f, ensure_ascii=False, indent=2)

@@ -20,7 +20,10 @@ PROVIDER_TYPES = {
     "DIAGNOSTIC CENTRE",
     "DAYCARE",
 }
-PLAN_FIELDS = {"id", "name", "insurer", "coverage", "emirates", "file", "providers"}
+PLAN_FIELDS = {
+    "id", "name", "insurer", "coverage", "emirates", "file", "providers",
+    "network_source", "layers",
+}
 PROVIDER_FIELDS = {
     "Index",
     "P",
