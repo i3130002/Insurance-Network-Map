@@ -1,0 +1,6 @@
+NETWORK_ID,NETWORK_NAME,TIER,SOURCE_DATE,EXTRACTED_PROVIDERS,SOURCE_FILE,SOURCE_URL
+april-mednet-premium-2026,APRIL MedNet Premium,Premium,2026-08,3854,APRIL International Middle East Network August 2026.xlsx,https://www.april-international.com/en/services/healthcare-networks-and-direct-billing
+april-mednet-classic-2026,APRIL MedNet Classic,Classic,2026-08,3854,APRIL International Middle East Network August 2026.xlsx,https://www.april-international.com/en/services/healthcare-networks-and-direct-billing
+april-mednet-green-2026,APRIL MedNet Green,Green,2026-08,3852,APRIL International Middle East Network August 2026.xlsx,https://www.april-international.com/en/services/healthcare-networks-and-direct-billing
+april-mednet-alternative-2026,APRIL MedNet Alternative,Alternative,2026-08,24,APRIL International Middle East Network August 2026.xlsx,https://www.april-international.com/en/services/healthcare-networks-and-direct-billing
+april-mednet-dental-2026,APRIL MedNet Dental,Dental,2026-08,648,APRIL International Middle East Network August 2026.xlsx,https://www.april-international.com/en/services/healthcare-networks-and-direct-billing
