@@ -740,5 +740,3252 @@
   "AREA": "OLD BAZZAR",
   "ADDRESS": "UAQ MAIN RD. OLD BAZZAR",
   "TELEPHONE": "06-7656180"
+ },
+ {
+  "PROVIDER NAME": "Al Abrah Clinic",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Flat No101, Sheikha Latifa Building, Al Khor Street. Opposite Al Ras Metro Station, Al Ras, Deira - Dubai, Uae",
+  "TELEPHONE": "42263299"
+ },
+ {
+  "PROVIDER NAME": "Al Azhar Clinic (Br)- Jebel Ali - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Po Box 69229 Near Nesto Parco Supermarket, Jebel Ali Industrial Area 1- Dubai - Uae",
+  "TELEPHONE": "48840535"
+ },
+ {
+  "PROVIDER NAME": "Al Azhar Clinic Branch3",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Po Box 69229, Shop No 13, Vegetable And Fruit Market, Al Aweer, Ras Al Khor, Dubai",
+  "TELEPHONE": "42230244"
+ },
+ {
+  "PROVIDER NAME": "Al Barsha AlNoor Polyclinic LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "In Front Of Lulu Center, Elte Business Center,Al Barsha",
+  "TELEPHONE": "42218122"
+ },
+ {
+  "PROVIDER NAME": "Al Sanaiya Medical Clinic (br)-Al Qouz",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Po Box 69229, Al Quoz Industrial Area 4 Near Al Madina Supermarket. Dubai Uae",
+  "TELEPHONE": "43384374"
+ },
+ {
+  "PROVIDER NAME": "Apple Clinic LLC ( ex. Apple Clinic FZCO - DXB)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "International City ,France Cluster P 03,Dubai",
+  "TELEPHONE": "44227533"
+ },
+ {
+  "PROVIDER NAME": "Dr. Ismail Medical Centre(Br)- AL Qusais(Sonapur)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Near Feroz Super Market, Near AL Naboodah Camp, Al Muhaisnah-2, (Sonapur), Al Qusais",
+  "TELEPHONE": "2646529"
+ },
+ {
+  "PROVIDER NAME": "Dr.Ismail Medical Centre (br)-Al Qouz",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Nexr Ola Al Madeena Hypermarket,Um Mumul Muminin Khadijah Bint Khowailed, Al Qouz Ind Area-2",
+  "TELEPHONE": "43381550",
+  "lat": "25.133",
+  "lon": "55.2532",
+  "confidence": "official_network_fuzzy",
+  "formatted": "Sukoon Insurance official network: DR.ISMAIL MEDICAL CENTER AL QOUZ"
+ },
+ {
+  "PROVIDER NAME": "Dulsco Medical Clinic",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Dulsco Medical Clinic 7A Street, Al Quoz Industrial Area 4, Dubai, Uae",
+  "TELEPHONE": "43232442",
+  "lat": "24.8534",
+  "lon": "55.0568",
+  "confidence": "official_network_fuzzy",
+  "formatted": "Sukoon Insurance official network: DULSCO MEDICAL CLINIC BRANCH"
+ },
+ {
+  "PROVIDER NAME": "Dulsco Medical Clinic BRANCH",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Sheikh Mohammed Bin Zayed Road, Labor Village 1, Dubai Industial City , Dubai, Uae",
+  "TELEPHONE": "44219354",
+  "lat": "24.8534",
+  "lon": "55.0568",
+  "confidence": "official_network_fuzzy",
+  "formatted": "Sukoon Insurance official network: DULSCO MEDICAL CLINIC BRANCH"
+ },
+ {
+  "PROVIDER NAME": "Family Clinic Br of Oxford Medical Center LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Hudeiba Street",
+  "TELEPHONE": "3451145"
+ },
+ {
+  "PROVIDER NAME": "Hope Care Polyclinic LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Hamaad Khalfan Building Aisha Mosque Hor Al Anz Deira Dubai",
+  "TELEPHONE": "42268881"
+ },
+ {
+  "PROVIDER NAME": "Karama Medical Centre - Jumeirah Village",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "No.4 Building M1, Amsa Jumeirah Village Circle,",
+  "TELEPHONE": "44229871"
+ },
+ {
+  "PROVIDER NAME": "Karama Medical Centre - Main",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Ibrahim Khalifa, 3Rd Floor, Sony Showroom Building, Karama,Dubai.",
+  "TELEPHONE": "43365903"
+ },
+ {
+  "PROVIDER NAME": "KIMS Medical Centre LLC - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Kims Medical Center, Al Dossari Building, Deira, Dubai",
+  "TELEPHONE": "42624500"
+ },
+ {
+  "PROVIDER NAME": "Kings College Hospital London, Medical Centre BR Of KCH Health Care LLC- Marina",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "P.O Box 340901, Al Khail Road, Marabea East Exit (Dubai Hills), Dubai, United Arab Emirates",
+  "TELEPHONE": "45199999"
+ },
+ {
+  "PROVIDER NAME": "Miracure Medical Centre LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Miracure Medical Centrellc Dubaioffice No-1-4,Rashid Buset Building ,Above Umm Al Quwain Bank ,Rasalkhor-2 Dubai,Uae",
+  "TELEPHONE": "43202500",
+  "lat": "25.1852",
+  "lon": "55.355",
+  "confidence": "official_network_fuzzy",
+  "formatted": "Sukoon Insurance official network: MIRACURE MEDICAL CENTER"
+ },
+ {
+  "PROVIDER NAME": "Muhaisna Speciality Clinic - DXB (Ex_Al Barsha Clinic (Branch) Sonapur)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "1026 , Sultan Building. Al Muhaisna, Dubai Po Box. 45491",
+  "TELEPHONE": "42644155"
+ },
+ {
+  "PROVIDER NAME": "Multi Care Medical Centre LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 18 Al Khail Gate Community Center Near Blue Mart Hyper Market, Dubai Uae",
+  "TELEPHONE": "45807899"
+ },
+ {
+  "PROVIDER NAME": "New Sanaiya Clinic- Sonapur",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Po Box 3484, Madina Supermarket - Sonapur Dubai Uae",
+  "TELEPHONE": "42648201"
+ },
+ {
+  "PROVIDER NAME": "Noor Al Ahalia Medical Centre",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "G-01, Ground Floor,Mamzar Centre, Al Littihad Road, Al Mulla Plaza Signal, Dubai, P.O. Box - 79257",
+  "TELEPHONE": "42547556"
+ },
+ {
+  "PROVIDER NAME": "Rahif Poly Clinic",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "1C Street,Al Qusais 3,Near Etisalat Metro StationDubai-Uae",
+  "TELEPHONE": "42647886"
+ },
+ {
+  "PROVIDER NAME": "Re Leaf Medical Centre L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Fakhree Centre LLC, Pasons Hyper Market Building, Reem Capital Contracting LLC.Camp 1, DIP, Dubai, UAE",
+  "TELEPHONE": "8814918"
+ },
+ {
+  "PROVIDER NAME": "Re Leaf Medical Centre LLC Branch",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Releaf Medical Centre Llc Branch,Khalfan Mohammad Bin Lahej 26, Street43, Alq 20",
+  "TELEPHONE": "43377977"
+ },
+ {
+  "PROVIDER NAME": "Ruby Clinic FZCO",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "China Cluster H-6, International City",
+  "TELEPHONE": "44226855"
+ },
+ {
+  "PROVIDER NAME": "Syed Sadiq General Practitioner Clinic LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Office 304, Al Rostamani Building Latifa Bint Hamdan Street,Near Al Khail Mall,Al Qouz 3 Dubai.",
+  "TELEPHONE": "43306781",
+  "lat": "25.1523",
+  "lon": "55.2422",
+  "confidence": "official_network_fuzzy",
+  "formatted": "Sukoon Insurance official network: SYED SADIQ GENERAL PRACTITIONER CLINIC"
+ },
+ {
+  "PROVIDER NAME": "Diagnostic Centers & Labs - Dubai Name",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Airis Imaging and Diagnostic Center LLC (PCP C General Practitioner Only)",
+  "TELEPHONE": ""
+ },
+ {
+  "PROVIDER NAME": "Aster Hospital Br Of Aster Dm Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Mankhol, Kuwait Street, P.O.Box 119428, Dubai, Uae",
+  "TELEPHONE": "44400500"
+ },
+ {
+  "PROVIDER NAME": "800 Pharmacy FZ-LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "01 Ground Floor Bldg 72 Dubai Healthcare City Dubai United Arab Emirates",
+  "TELEPHONE": "43466889",
+  "lat": "25.365904",
+  "lon": "55.40293",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: 800 PHARMACY FZ-LLC"
+ },
+ {
+  "PROVIDER NAME": "Ajmal Pharmacy -DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Smc Building, Oppt Karama Bus Station And Near Karama Fish And Vegetable Market",
+  "TELEPHONE": "43360801"
+ },
+ {
+  "PROVIDER NAME": "Al Azhar Al Jadeeda Pharmacy - Jebel Ali",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Po Box 69229, Near Nesto Parco Supermarket, Jebel Ali Industrial Area 1 - Dubai- Uae",
+  "TELEPHONE": "48800706"
+ },
+ {
+  "PROVIDER NAME": "Al Fehaidi Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Fehaidi Pharmacy, Bur Dubai, Meena Bazar (Al Souq Al Kabeer)",
+  "TELEPHONE": "3535335"
+ },
+ {
+  "PROVIDER NAME": "Al Hawi Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Naser Square, Deira, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Al Kanz Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Abu Baker Al Sidq Road, Deira",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Al Kanz Pharmacy (L.L.C.)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Lakeshore Tower ( Bojwani), JLT,Dubai Cluster Y ,Dubai , U. A. E",
+  "TELEPHONE": "45610000",
+  "lat": "25.27705",
+  "lon": "55.327792",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: AL KANZ PHARMACY"
+ },
+ {
+  "PROVIDER NAME": "Al Kausar Pharmacy - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Next To Palm Beach Hotel,Khalid Bin Waleed Road,Burdubai.Dubai.Uae",
+  "TELEPHONE": "43938485"
+ },
+ {
+  "PROVIDER NAME": "Al khawaneej Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Khalaf Matar Building,Al Khawaneej",
+  "TELEPHONE": "42892210"
+ },
+ {
+  "PROVIDER NAME": "Al Sanaiya Pharmacy - Sonapur",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Po Box 3486 Near Baladia Labour Camp -SonapurLabour Camp Area- Dubai - U.A.E",
+  "TELEPHONE": "42642449"
+ },
+ {
+  "PROVIDER NAME": "Al Zahra Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Opposite Uae City Exchange, Karama",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Aster Hospital Pharmacy Br Aster Dm Healthcare Fzc Dubai Branch",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Mankhol, Kuwait Street, P.O.Box 119428, Dubai, Uae",
+  "TELEPHONE": "44400500",
+  "lat": "25.2774365",
+  "lon": "55.3953363",
+  "confidence": "official_network_fuzzy",
+  "formatted": "Union Insurance official network: Aster Hospital Pharmacy (Br of Aster DM Healthcare FZC) Dubai Branch - Dubai"
+ },
+ {
+  "PROVIDER NAME": "Aster Hospital Pharmacy Br Of Aster Dm Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "9 A Street, Al Qusais Industrial Area 2, P. O. Box 119428 Al Qusais, Dubai, Uae",
+  "TELEPHONE": "44400500",
+  "lat": "25.277436",
+  "lon": "55.395336",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: ASTER HOSPITAL PHARMACY BR OF ASTER DM HEALTHCARE"
+ },
+ {
+  "PROVIDER NAME": "Bait Al Maqdes Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "13Th St., Al Nadha1, Al Nadha, Dubai Uae",
+  "TELEPHONE": "42667211"
+ },
+ {
+  "PROVIDER NAME": "Baniyas Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Ashrfiah Building, Near Clock Tower, Deira, Dubai UAE",
+  "TELEPHONE": "45610000",
+  "lat": "25.261288",
+  "lon": "55.322476",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: BANIYAS LIFE PHARMACY BR OF LIFE PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Barsha Rose Gardens Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 1, Rose Gardens Hotel Apartment Bldg, Al Barsha 1, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.113755",
+  "lon": "55.192875",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: BARSHA ROSE GARDENS PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Bay Square Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit G-03, BB11,Next to Choitram Supermarket, Bldg. No.BB11, Bay Square, Business Bay, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.185191",
+  "lon": "55.281364",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: BAY SQUARE PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Bin Seray Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Oud Mehta Road, Near Lamcy Plaza, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "CCS Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. 2, Ground Floor, Shindagha City Centre, Bur Dubai, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "City Land Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. 260, City land The Mall, Wadi Al Safa, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "City Life Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No. Rtgf 01 04 , Rtmz 01,Rtmz04 , Sama Tower, Trade Centre First, Sheikh Zayed Road, Dubai - Uae",
+  "TELEPHONE": "45610000",
+  "lat": "25.218917",
+  "lon": "55.279619",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: CITY LIFE PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Co-Operative Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Sabka Road, Deira, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Creek Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. 1-21, 1-24, First Floor, Madina Mall, Dubai, Uae.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Dania Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Nasir Lootha Building Post office Hor Al Anz 34th Street Abu Bakar Siddique Road Hor Al Anz, Dubai",
+  "TELEPHONE": "2528266"
+ },
+ {
+  "PROVIDER NAME": "Deira Life Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop2,State 1 building,Rigga, Dubai.",
+  "TELEPHONE": "45610000",
+  "lat": "25.264306",
+  "lon": "55.329346",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: DEIRA LIFE PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Diamond 3 Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. Pi-G-05, Park Island, Dubai Marina, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.082012",
+  "lon": "55.142039",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: DIAMOND 3 PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Doha Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Attar Tower, Shk.Zayed Road, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Dream Pharmacy - Life Healthcare - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Dream Tower,Near Al Maya Super Market, Dubai Marina, Dubai",
+  "TELEPHONE": "44227844"
+ },
+ {
+  "PROVIDER NAME": "Dubai Life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Hall No.5, Dubai World Trade Centre, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Dulsco Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Sheikh Mohammed Bin Zayed Road, Labor Village 1, Dubai Industial City , Dubai, Uae",
+  "TELEPHONE": "44219354",
+  "lat": "25.1268",
+  "lon": "55.2333",
+  "confidence": "official_network_fuzzy",
+  "formatted": "Sukoon Insurance official network: DULSCO PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Extra Life Pharmacy - Life Healthcare - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Akas Inn Hotel Apartment (Behind Holiday Inn Al Barsha",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Fawagee Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Nad Al Hamar, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Fawagee Scientific Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "26 B Street, Mirdiff",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Festival Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. - SU108 SU109, Ground Floor, Festival Plaza, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Gold Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit no. GDP-5-G-R5-004, Gold and Diamond Park, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Golden Life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Murooj Complex, Shk. Zayed Road, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Grand Al Kausar Pharmacy - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Next To Day To Day ,Sharaf Dg Metro Station .Burdubai",
+  "TELEPHONE": "43511406",
+  "lat": "25.258628",
+  "lon": "55.2964",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: GRAND AL KAUSAR PHARMACY"
+ },
+ {
+  "PROVIDER NAME": "Grand Life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Muteena St., Deira, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Grand Royal Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Rolla Road, Bur Dubai, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hafsa Pharmacy- DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Next Mango Hypermarket,Masjid Abu Dhar Al Ghifari Mosque, Muhasinah-2",
+  "TELEPHONE": "42643567"
+ },
+ {
+  "PROVIDER NAME": "Haji Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No.2 , Rashid Bin Al Dharoui Buiding , Satwa Main Road , Satwa",
+  "TELEPHONE": "43319192",
+  "lat": "25.2253",
+  "lon": "55.2727",
+  "confidence": "official_network_fuzzy",
+  "formatted": "Sukoon Insurance official network: HAJI PHARMACY"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 13 LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 22 24,S-6 Building, Spain Cluster,International City,Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.165651",
+  "lon": "55.40284",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: HALA PHARMACY 13 LLC"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 14 LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No.1, Marina Diamond 5 (A) Dubai Marina, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.081114",
+  "lon": "55.146362",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: HALA PHARMACY 14 LLC"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 15 LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No 01 , Al Safa Tower, Near Emirates Tower Metro Station , Trade Centre, Shk. Zayd Road, Dubai Uae",
+  "TELEPHONE": "45610000",
+  "lat": "25.048494",
+  "lon": "55.13155",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: HALA PHARMACY 15 LLC"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 16",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No. S -1 , Al Satwa Building, Al Hudaiba, Satwa, Bur Dubai - Uae",
+  "TELEPHONE": "45610000",
+  "lat": "25.236175",
+  "lon": "55.277723",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: HALA PHARMACY 16 LLC"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 19",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "S-16, P 17 Building , France Cluster, International City, Dubai Uae.",
+  "TELEPHONE": "45610000",
+  "lat": "25.161253",
+  "lon": "55.399043",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: HALA PHARMACY 19"
+ },
+ {
+  "PROVIDER NAME": "Hamriya Life Pharmacy L L C",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Ground Floor,Union Co-Operative Society,Hamriya Shopping Centre,Deira Hor Al Anz East,Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.282831",
+  "lon": "55.340897",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: HAMRIYA LIFE PHARMACY L L C"
+ },
+ {
+  "PROVIDER NAME": "Health Hub Pharmacy (Br of Alfuttaim Health Care Single Person Company L.L.C)-Festival Plaza",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "First Floor, Festival Plaza Mall, Jebel Ali - Dubai",
+  "TELEPHONE": "45967373"
+ },
+ {
+  "PROVIDER NAME": "J.B.R. Life Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Jumeirah Beach Residence, Amwaz 3",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Jadaf Life Pharmacy Br of Life Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Retail1, Riah Towers, Culture Village, Al Jeddaf, Dubai - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "JBR Bahar Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shp P25, Bahar Tower - 4 Near Al Maya Supermarket, JBR",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "JBR Life Pharmacy 2 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No 2406, Ground floor, The Beach JBR , Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "JBR Murjan Pharmacy EST.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shp P57, Murjan Tower - 2, Near Daily gourmet Supermarket, JBR",
+  "TELEPHONE": "45610000",
+  "lat": "25.082066",
+  "lon": "55.139999",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: JBR MURJAN PHARMACY EST"
+ },
+ {
+  "PROVIDER NAME": "JBR Sadaf Pharmacy EST.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shp P32, Sadaf Tower - 2, Near Al Maya Supermarket, JBR",
+  "TELEPHONE": "45610000",
+  "lat": "25.080068",
+  "lon": "55.137619",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: JBR SADAF PHARMACY EST."
+ },
+ {
+  "PROVIDER NAME": "JBR Shams Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shp PT24, Shams Tower-1, Near Al Maya Supermarket, JBR",
+  "TELEPHONE": "45610000",
+  "lat": "25.073185",
+  "lon": "55.130388",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: JBR SHAMS PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "JVC Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop Gs3,Opp To Bluemart Supermarket, Emirates Garden Ii- Mulberry, Jvc",
+  "TELEPHONE": "45610000",
+  "lat": "25.050787",
+  "lon": "55.203532",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: JVC LIFE PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "JVT Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop G-02 G-03, Near Milestone Supermarket,Imperial Residence Tower, Jvt, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.047857",
+  "lon": "55.195546",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: JVT LIFE PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Karama Life Pharmacy Br Of Life Pharmacy L L C",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No. 1 2 , Al Karama Building , Karama , Dubai.",
+  "TELEPHONE": "45610000",
+  "lat": "25.247911",
+  "lon": "55.300491",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: KARAMA LIFE PHARMACY BR OF LIFE PHARMACY L L C"
+ },
+ {
+  "PROVIDER NAME": "Karama One Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 2 n 3 Karama, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.238793",
+  "lon": "55.30236",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: KARAMA ONE PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Khalifa Obaid Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Mohammed Butti Building Opp. Satwa Big Mosque, Satwa",
+  "TELEPHONE": "43316141"
+ },
+ {
+  "PROVIDER NAME": "KIMS Pharmacy LLC - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Kims Medical Center, Al Dossari Building, Deira, Dubai",
+  "TELEPHONE": "42209434"
+ },
+ {
+  "PROVIDER NAME": "La Riviera Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit S02 in La Riviera Tower, Dubai Marina,Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.073081",
+  "lon": "55.138471",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LA RIVIERA LIFE PHARMACY BR OF LIFE PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Abu Hail Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Life Abu Hail Pharmacy, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.278716",
+  "lon": "55.347404",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE ABU HAIL PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Al Badaa Pharmacy L.LC.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "S 1 Al Badaa Bldg,P 78 Al Badaa,Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Al Barsha Fourth 2 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop no. 1, Prime Business Center A, Al Barsha South Fourth (Plot no 240), Dubai.",
+  "TELEPHONE": "45610000",
+  "lat": "25.068955",
+  "lon": "55.207352",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL BARSHA FOURTH 2 BR OF LIFE PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Al Barsha Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Etihad Mall,Mirdiff",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Al Barsha South Fourth Br of Life Pharmacy L L C",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No. G01-B, Manhattan Building, Near Choithram , Jvc Village, Al Barsha South Fourth Community, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.068718",
+  "lon": "55.207821",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL BARSHA SOUTH FOURTH BR OF LIFE PHARMACY L L C"
+ },
+ {
+  "PROVIDER NAME": "Life Al Hamriya Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No 1, Al Bahri Metro Building, Plot 373-261, Al Barsha 1, Dubai, Uae",
+  "TELEPHONE": "45610000",
+  "lat": "25.256631",
+  "lon": "55.301314",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL HAMRIYA BR OF LIFE PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Al Karama Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Near Burger King Next To Ministry Of Health",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Al Mizhar First Br of Life Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. 2630, Arabian Center, Al Mizhar, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.23513",
+  "lon": "55.436123",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL MIZHAR FIRST BR OF LIFE PHARMACY"
+ },
+ {
+  "PROVIDER NAME": "Life Al Nahda Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 3, Twin Tower, Plot 241-555, Al Nahda , Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.296527",
+  "lon": "55.376523",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL NAHDA PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Life Al Qusais Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Near Icare Clinic,Al Huraiz Building, Damascus Street",
+  "TELEPHONE": "45610000",
+  "lat": "25.282524",
+  "lon": "55.38849",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL QUSAIS PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Al Riqqa 2 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop no. AGC 30, Ground Floor, Al Ghurair Centre, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Al Riqqa Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop F67, Opp. To Carrefour, Al Ghurair Centre, Al Riqqa, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.268102",
+  "lon": "55.31712",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL RIQQA PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Life Al Shab Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 1 2, Plot 127-0422, Malik Building, Al Shaab Colony, Hor Al Anz, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.276751",
+  "lon": "55.337237",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL SHAB PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Life Al Warqa 2 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No. 5, Ground Floor, Al Jabri Building, Al Warqa First, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Al Warqa Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 1 2, Al Kendi , bldg , Al warqa",
+  "TELEPHONE": "45610000",
+  "lat": "25.191105",
+  "lon": "55.407578",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL WARQA PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Al Yalayis 1 BR of Life Pharmacy 3 L.L.C",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. Mira - Gf-005, Mira Town Centre, Reem Community, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.004991",
+  "lon": "55.164944",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE AL YALAYIS 1 (BR OF LIFE PHARMACY 3 L.L.C)"
+ },
+ {
+  "PROVIDER NAME": "Life DIP Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Near Choithrams Supermarket, Market Mall, DIP,Greens",
+  "TELEPHONE": "45610000",
+  "lat": "25.00501",
+  "lon": "55.16494",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE DIP PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Express Pharmacy - Life Healthcare - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Near Welcare Hospital Al Garhoud , Dubai, Al Mamzar Area",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Island Pharmacy BR of Life Pharmacy 3 LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No Ji-B5 -Ri-05D,Jumeriah,Pavilion Master Community, Dubai.",
+  "TELEPHONE": "45610000",
+  "lat": "25.173321",
+  "lon": "55.421779",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE ISLAND PHARMACY 3 LLC _BRANCH OF LIFE PHARMACY 3LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Mayfair Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "S-02, Mayfair residence Tower, Business Bay, Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.207547",
+  "lon": "55.273882",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE MAYFAIR PHARMACY L.L.C"
+ },
+ {
+  "PROVIDER NAME": "Life Muraqabat Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop1,R471 Building,Wasl Trio Block A,Al Muraqabat Rd,Dubai",
+  "TELEPHONE": "45610000",
+  "lat": "25.262812",
+  "lon": "55.327243",
+  "confidence": "official_network_fuzzy",
+  "formatted": "ADNIC official network: LIFE MURAQABAT PHARMACY LLC"
+ },
+ {
+  "PROVIDER NAME": "Life Pearl Pharmacy L..L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop9, Marina pearl Buldg,Dubai Marina,Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 10 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No6, Ground Floor, Al Fattan Shopping Centre, JBR Walk, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 11 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No.2, Near Creative Minds Shop, Barsha, Umm Suqeim Road, Dubai - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 12 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 1, The Tower, Financial Centre, Sheikh Zayed Road, Dubai , UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 15 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No.13, Bayat Complex, Hor Al Anz East, Dubai, Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 16 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit no. R-18, Ground Floor Bluewaters Residences 8, Marsa, Dubai, UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 3 LLC (Branch) (DCC)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "LG01A, Next to Fitness First, Deira City Centre, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 3 LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No G02 G 03, Union Co-Op Al Twar Branch, Dubai , Uae.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 4 LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop Lf15, Metro Link, Ibn Battuta,",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 5 LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "ShopAt040A,First Floor, Dubai Festival City Mall, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 7 LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Furjan South-Unit FRJP-R-24",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy 8 BR of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit no. F11H, First Floor, Mall of Emirates, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy Barsha Heights Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No 8 , Al Shaiba Tower , Barsha Heights ( Tecom) , Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy CCM Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. D006A, Ground Floor, Midriff City Centre, Dubai - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy DFC Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. - RC-021, First Floor, Dubai Festival City, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy DIP 2 Br of Life Pharmacy L L C",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No.6,Ramla Mall, DIP, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy Dusseldorf Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No. 4, Dusseldorf Business Point, Al Barsha-1, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy DWTC Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No R021.02, Concourse 1, Dubai World Trade Centre, Dubai - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy Fz-LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit no. 09RI, Build. No. 64, District 1, Block D, Ground Floor, DHCC, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy Hills Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop Number R VCC A8, Arabian Ranches I, Dubai, UAE",
+  "TELEPHONE": "5610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy I B M 2 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No.IBS-GF-54 IBS-GF-54A, COURT-S, IBN BATTUTA MALL, DUBAI, UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy I B M Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. IBS-GF-078, PERSIA COURT, IBN BATTUTA MALL, DUBAI",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy JVT 2 Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No 06, Botanica Tower 1, Dubai Marina, Dubai Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy LLC Branch-Business Bay",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 1, Clover Bay Tower, Business Bay, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy LLC DMCC Br",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "G11, Dubai Gate 1, Jumeirah Lakes Towers, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy Marina Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Ground Floor, DEC Dubai Marina Tower 2, Choitrams - Marina, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy Marina Walk Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. GA2, Ground Floor, Dubai Marina Towers Retail, Marina Walk, Dubai - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy N K Mall Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No. NKM- B- 1010 B-1011 , Nakheel Mall , Palm Jumeirah, Dubai - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy Village Mall Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No 24 25, The Village Mall, Jumeirah First, Dubai - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Plus Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Inside Lathifa Hospital, Dubai Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Rose Pharmacy llc",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop - 10, E07 Building, Plot No 67, China Cluster, International City, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Trident Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No. R01 Near Marina Hotel Apt,Next to Blue Mart Suprmarket, , Marina Scape Tower, Dubai Marina",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Two Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Kawakeb Bldg A, 1St Interchange,Sheikh Zayed Road, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Two Pharmacy LLC Branch",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop G84 G85,Bay Avenue- Business Bay,Next To Whsmith Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Life Vision Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop G1, Vision Tower, Business Bay, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Liwa Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Mankhool, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Madinat Al Kausar Pharmacy - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Opp Mashreq Metro Station,Sheikh Zayed Road,Al Barsha.",
+  "TELEPHONE": "43473654"
+ },
+ {
+  "PROVIDER NAME": "Madinat Al Quoz Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Farnek Bulding - Shop No 3- Back Side Of Al Khail Mall Al Qouz Industrial Area, Po Box - 128800",
+  "TELEPHONE": "43388522"
+ },
+ {
+  "PROVIDER NAME": "Mansion Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Next to Marina Mall , Dubai Marina",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Marina Life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Dubai Marina, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Marina Pharmacy Atlantis Br of Marina Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Palm Jumeirah Atlantis Hotel Atlantis 48",
+  "TELEPHONE": "43466889"
+ },
+ {
+  "PROVIDER NAME": "Marina Pharmacy Nad Alshiba Br of Marina Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Street Name Nad Alshiba 2 Apartment/Villa Number G05 /Building Name Union Coop -Nad Alshiba 2 Branch Dubai Area Name Nad Al Sheba - 2",
+  "TELEPHONE": "44346689"
+ },
+ {
+  "PROVIDER NAME": "Marina View Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Dubai Marina,Marina heights Building, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Marsa Life Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop7, MAG 218, Dubai Marina, Dubai.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Mas Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. P1-08-1, Marsa Al Seef, Dubai - Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Modern Life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Fruits Vegetables Market, Aweer, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy LLC ( Ex. Thumbay Pharmacy 2 Br Of Thumbay Pharmacy LLC)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Area Al Qusais Street Damascus Street Bldg Name Al Ghuwais Building Land Mark Near Epco Petrol Pump City Dubai Po Box-1885 State Dubai",
+  "TELEPHONE": "42676705"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy LLC ( Ex. Thumbay Pharmacy 8 Br Of Thumbay Pharmacy LLC)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Area Satwa Street Al Diyafa Street, Bldg Name Hilah Salim Bldg, Land Mark Beside Al Mallah Restaurant City Dubai Po Box-1885 State Dubai",
+  "TELEPHONE": "43594520"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy LLC Branch ( Ex. Thumbay Pharmacy 12 Br Of Thumbay Pharmacy LLC)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Area Al Satwa Street Albadaa Bldg Name Mohammed Sadiq Hussain Khalid Building Land Mark Bilal Mosque City Dubai Po Box-1885 State Dubai",
+  "TELEPHONE": "43448162"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy LLC Branch ( Ex. Thumbay Pharmacy 6 LLC Branch)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Albarsha 1 Dubai, Community No. 373 Street No.38, Desert Charm Building, Back Side Novotel Hotel, Beside Golden Tulip Hotel Albarsha 1.Dubai",
+  "TELEPHONE": "43994694"
+ },
+ {
+  "PROVIDER NAME": "Ceylon Bake House City Al Qusais Po Box-48450 State Dubai Modern Pharmacy LLC Branch",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Before Shobha Saffairh Tower, Damac Excutive Bay Bldg., Shop 3, Business Bay",
+  "TELEPHONE": "4426539"
+ },
+ {
+  "PROVIDER NAME": "Multi Care Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Khail Gate Community Center Al Quoz Near Blue Mart Hyper",
+  "TELEPHONE": "45807784"
+ },
+ {
+  "PROVIDER NAME": "Murshid Pharmacy LLC (Ex Iran Pharmacy - Life Healthcare)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop G9 ,G10 G11,Sawan Building,Al Buteen,Deira,Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Naeem Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Nakeel Road,Deira Dubai",
+  "TELEPHONE": "42212310"
+ },
+ {
+  "PROVIDER NAME": "Natures Life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Wasl Road , Dubai, Jumeirah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Neo Pharamcy LLC Branch",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Neo Pharmacy Llc , Al Fakhree Centre Llc, 53 Street.Dip 2",
+  "TELEPHONE": "48814919"
+ },
+ {
+  "PROVIDER NAME": "New Al Kanz Pharmacy Br",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop Mag 214 , JLT,Dubai cluster R",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Al Kanz Pharmacy Branch",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "J2 Tower, Cluster J -JLT, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Al Nahda - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "No. 1 Al Nahda 3 Bldg, Bfre Emts Star Hotel Apart",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Doha Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Gadhir Bldg, Sheikh Zayed Road",
+  "TELEPHONE": "43328385"
+ },
+ {
+  "PROVIDER NAME": "New Grand 1 Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Khalid Bin Walid Road, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Grand Murqabat Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 5 Murqabat, Dubai Uae.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Mamzar Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Century Mall Shopping Mall, Deira, Al Mamzar",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Mazaya Pharmacy EST.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "New Mazaya Pharmacy, G06, Mazaya Shopping Centre, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Motor City Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Life Para Pharmacy/ Nw Motor City",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Salahaldin Pharmacy FZE",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop G-3,Al Waha Mosque-RS, Dubai Silicon Oasis",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Sanaiya Pharmacy - Sonapur",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Po Box 3484, Madina Supermarket - Sonapur Dubai Uae",
+  "TELEPHONE": "42648201"
+ },
+ {
+  "PROVIDER NAME": "New Silicon Pharmacy Br of Life Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Retail 01, Le Presidium Tower, Dubai Silicon Oasis, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Spring Pharmacy (BR OF LIFE PHARMACY LLC)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. NSPV-FF-26, The New Spring Village, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Noor Al Ahalia Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "G-01, Ground Floor,Mamzar Centre, Al Littihad Road, Al Mulla Plaza Signal, Dubai, P.O. Box - 79257",
+  "TELEPHONE": "42526880"
+ },
+ {
+  "PROVIDER NAME": "Noor Al Iman Pharmacy - life healthcare - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 1, Plot 356-257, Jumeirah 3, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Oasis Life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Residential Oasis, Al Qusais",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Oman Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Ground Floor, Al Rigga Building, Opp.Corado Fashion - Baniyas Square-14Th Rd - Deira - Dubai",
+  "TELEPHONE": "42222071"
+ },
+ {
+  "PROVIDER NAME": "Outlet By Life Pharmacy LLC ( Ex. Real Pharmacy)",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Belselah Building, Next to Marina Furniture",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Palm Strip Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Palmstrip Mall Building Jumeirah Beach Road Area, Dubai.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Pharma One Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop . 4 Fatima Bldg, Beirut St.Next To Madi Mall, Close To Eppco Petrol Station,Muhaish 4, Dubai Uae",
+  "TELEPHONE": "42631107"
+ },
+ {
+  "PROVIDER NAME": "Ramada life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Near Hotel Ramada, Bur Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Ras Al Khor Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Baniyas Road Opposite Alkhor Deira Dubai",
+  "TELEPHONE": "42262276"
+ },
+ {
+  "PROVIDER NAME": "Real 10 Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop1, Elite Building, Opp. Lulu Hyper market, Al Barsha, Dubai.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Real 3 Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop no 1, Emart Supermarket, Umm Hurair",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Real 4 Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Po no 483, Shop no 3, Escaper Tower , Near Business Bay Metro",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Real 5 Pharamacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Next To Carrefour Express,Aman Road,Al Nadha",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Real 6 Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 1, Al Salaam Tower, Sheik Zayed Road,Chelsea Dubai U.A.E.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Real 7 Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Ground Floor, E3 , Sabah Tower 1, Jumeirah Lake Towers.",
+  "TELEPHONE": "44391776"
+ },
+ {
+  "PROVIDER NAME": "Real 7 Pharmacy DMCC Branch",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop PL-7, Lake Terrace, Cluster D, Jumeirah Lakes Towers, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Real 7 Pharmacy JLT Branch",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit GS03, Plot JLT - Ph1- A3, Lake Side Res Tower",
+  "TELEPHONE": "45516506"
+ },
+ {
+  "PROVIDER NAME": "Real One Pharmacy - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shp 12 Al Balooch Bldg, Near Alrafa Police St, Bur Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Relief Pharmacy - Dubai",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Naif Road,Deira",
+  "TELEPHONE": "42285462"
+ },
+ {
+  "PROVIDER NAME": "Riviera Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "SHOP 1, Riviera Dreams Bldg,CBD Cluster,Next to Papa John Pizza, International City,DUBAI",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Royal Grand Pharmacy - Life Healthcare - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "International City Next To Carrefour Express",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Royal Life Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Royal Life Pharmacy",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Royal Mamzar Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Mamzar Centre, Dubai, Al Mamzar",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Royal Marina Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Barsha, Opp Abidos Hotel,Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Royal Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Khalid Bin Walid Walid Road, Opp. Hotel Ascot",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Ruby Pharmacy FZCO - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No 5 -China Cluster International City - Dubai U.A.E",
+  "TELEPHONE": "44226855"
+ },
+ {
+  "PROVIDER NAME": "S B N Pharmacy LLC - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Sabah Bldg., Baniyas Dubai Uae",
+  "TELEPHONE": "44517427"
+ },
+ {
+  "PROVIDER NAME": "Safa Society Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Union Co-Operative Building Opposite Safa Park, Jumeirah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Samari RX Pharmacy BR of IMARA Healthcare LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Samari Retail Mall, Ras Al Khor",
+  "TELEPHONE": "45472700"
+ },
+ {
+  "PROVIDER NAME": "Samer Pharmacy - Life healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shk.Hamdan Colony, Karama",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Smile Pharmacy - DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Next Mango Hypermarket,Masjid Abu Dhar Al Ghifari Mosque, Muhasinah-2",
+  "TELEPHONE": "42643567"
+ },
+ {
+  "PROVIDER NAME": "Super Life Pharmacy-Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No56, Bldng NoZen 2-020,Plot No169,Discovery Gradens, Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Sustainable Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "B-1, The sustainable City, Al Wadi Al Safa 7, Dubai, U.A.E",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "SZR Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Showroom No. 2, Al Kawakeb (D Block), Sheikh Zayed Road, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Taj Pharmacy - Life Healtcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Taj Palace Hotel, Deira",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Tariq Pharmacy - Life Heathcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Bustan Centre, Al Qusais",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "The Point Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Next to Reel Cinemas , The Pointe , Palm Jumeirah, Dubai, UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 1 Br of Thumbay Pharmacy LLC Ex We Care Almamzar Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Area Al Mamzar Street Hor Al Anz Street Bldg Name Al Samar Building Land Mark Moven Pick Hotel City Dubai Po Box- 1885 State Dubai",
+  "TELEPHONE": "42677656"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 10 Branch of Thumbay Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Area Al Khawaneej Street Al Khawaneej Bldg Name Ad Almeiri Land Mark Near To Ramz Al Salah City Dubai Po Box-1885 State Dubai",
+  "TELEPHONE": "42733515"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 11 (Br of Thumbay Pharmacy LLC) Ex. Dubai Hospital Pharmacy-Deira",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Area Al Khaleej Road Street Al Khaleeja Street Bldg Name Inside Dubai Hospital Bldg Land Mark Dubai Hospital City Al Baraha Po Box-48450 State Dubai",
+  "TELEPHONE": "42722011"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 13 Branch of Thumbay Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Prime Buisness Centre, Cistys Grocery/Super Market, Al Barsha South 4, Jumeira Village Circle",
+  "TELEPHONE": "45579771"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 14 Branch of Thumbay Pharmacy LLC Ex We Care Med Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "GPAR/G RO 1, Jumeirah Village 3",
+  "TELEPHONE": "43954448"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 3 Branch of Thumbay Pharmacy LLC Ex Al Diwan Pharmacy-DXB",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Area Burdubai, Street Al Fahidi Street Bldg Name Mohamed Sadiq Hussain Buldg Land Mark Near Dubai Museum, City Burdubai Po Box-1885 State Dubai",
+  "TELEPHONE": "43530099"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 4 Branch of Thumbay Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": ". Area Al Nahda 1 Street Al Ittihad Rd, Bldg Name Hessa Tower Land Mark Near Zafranah Building City Dubai Po Box-5035 State Dubai",
+  "TELEPHONE": "42725779"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy DMCC Ex. We Care Pharmacy JLT",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop No.06, Ground Floor level, Lake City Tower, Plot D-3, JLT",
+  "TELEPHONE": "43686411"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Plot No. 123-1080 Building Name Al Ghurair Building Street Name Al Muteena Street Area Name Deira City Dubai Land Mark Next To Sheraton Deira Hotel",
+  "TELEPHONE": "42512929"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC Branch Ras Al Khor",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Building Name Ama-Holding Building Street Name Near Marhaba Mall Area Name Ras Al Khor City Dubai Land Mark Near Marhaba Mall.",
+  "TELEPHONE": "43201400"
+ },
+ {
+  "PROVIDER NAME": "Town Life Pharmacy - Life Healthcare Group",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Mirdiff Uptown (Welcare Clinic)",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Town Square Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Unit No. 4, Ground Floor, Town Square Development Zahra Apartments, Dubai UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Tram Life Pharmacy L.L.C.",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Seef Tower 1, Behind Tamani Hotel",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Village Pharmacy - Dubai",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Village Pharmacy , Village Hyper Market Bldg . Near R/A 7 ,Jebal Ali Free Zone , Dubai",
+  "TELEPHONE": "48839904"
+ },
+ {
+  "PROVIDER NAME": "Vita Care Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Vita Care Pharmacy L.L.C, Shop 4 5 Bakhita Saeed Mubarak Al Shamsi Al Rowa, Al Hudaiba Street 35, Al Satwa, Dubai",
+  "TELEPHONE": "43425556"
+ },
+ {
+  "PROVIDER NAME": "Warsan Life Pharmacy Br of Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Building 28, Shop No 11,13,14,15,16, France Cluster, International City, Dubai, UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Yara Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Riqa Road, Near Kfc, Deira",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Yassat Life Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop no. 7 8 , Ground Floor , Caliber Plaza, Dubai Production City , Dubai",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Yassat Life Pharmacy LLC",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shop 1, Yassat Gloria Hotel , Tecom",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Zayd Pharmacy - Life Healthcare",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Shk. Zayed Road, Dubai.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Zulekha Pharmacy",
+  "P": "DXB",
+  "AREA": "",
+  "ADDRESS": "Al Faris Hotel Apartments, Al Rafa Police Station, Rafa Street, Bur Dubai",
+  "TELEPHONE": "43934757"
+ },
+ {
+  "PROVIDER NAME": "Life Pharmacy Ex Al Mulla Pharmacy",
+  "P": "UMQ",
+  "AREA": "",
+  "ADDRESS": "Umm Al Qaiwain Uae.",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Roua Pharmacy LLC",
+  "P": "UMQ",
+  "AREA": "",
+  "ADDRESS": "Opp.Old Lulu Centre ,Same Buldind Dr Rana Clinic Shop No 3",
+  "TELEPHONE": "67660688"
+ },
+ {
+  "PROVIDER NAME": "Tajeran Pharmacy - UAQ",
+  "P": "UMQ",
+  "AREA": "",
+  "ADDRESS": "Sheikh Ibrahim Saeed AlMuallah Building, Next to alkhaleej medical center, UAQ",
+  "TELEPHONE": "7652291"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC ( UAQ Branch ) or Thumbay Pharmacy 8",
+  "P": "UMQ",
+  "AREA": "",
+  "ADDRESS": "Thumbay Clinic Building,Next To Lulu Hypermarket, Majid Al Awal Roundabout, Umm Al Quwain, Uae Shop No. 5 Building Name Thumbay Clinic Building Street Name King Faisal Road Area Al Raas C City Umm Al Quwain",
+  "TELEPHONE": "67051544"
+ },
+ {
+  "PROVIDER NAME": "Al Gharafa Medical Centre-Ajman",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Karama Plaza Builidng, 3Rd Floor , Ajman",
+  "TELEPHONE": "67448322"
+ },
+ {
+  "PROVIDER NAME": "Al Sultan Medical Center LLC",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Al Sultan Medical Center Meishariff Ajman Near City Center",
+  "TELEPHONE": "67444188"
+ },
+ {
+  "PROVIDER NAME": "Metro Medical Centre LLC - Ajman",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Metro Medical Centre, Al Nuaimia Area , Sheikh Khalifa Bin Zayed Street, Al Bader Bldg, Ajman",
+  "TELEPHONE": "67469694"
+ },
+ {
+  "PROVIDER NAME": "New Ibin Sina Medical Center - AJM",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Near Ajman Taraffic Licensing Department, Sheik Rashid Bin Humaid 1St Street",
+  "TELEPHONE": "67413330"
+ },
+ {
+  "PROVIDER NAME": "Red Maple Medical Center L.L.C. Ex Medilife Medical Center LLC",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "2871, Al Bahya, Al Jurf 3, Ajman, Uae.",
+  "TELEPHONE": "67481778"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Labs LLC",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Gulf Medical University Building, University Street, al Al Jurf, P.O Box 4184, Ajman, UAE",
+  "TELEPHONE": "67400740"
+ },
+ {
+  "PROVIDER NAME": "Ajman Specialty General Hospital",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "New Vegetable Market, Hamedeya St., New Industrial Zone,Ajman",
+  "TELEPHONE": "7484999"
+ },
+ {
+  "PROVIDER NAME": "Al Marsa Pharmacy",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "University Street near Khalifa Hospital Al Jerf Ajman",
+  "TELEPHONE": "67473383"
+ },
+ {
+  "PROVIDER NAME": "Al Shifa Pharmacy-Ajman",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Near Al Haramain Perfumes, Industrial Area-1, Al Zahra- Ajman",
+  "TELEPHONE": "67481477"
+ },
+ {
+  "PROVIDER NAME": "Emirates Pharmacy-Ajman",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Near Lulu Hyper Market, Kuwait Hospital Street, Al Bustan, Ajman.",
+  "TELEPHONE": "67474900"
+ },
+ {
+  "PROVIDER NAME": "Maple Pharmacy L.L.C. Ex Medilife Pharmacy LLC",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "2871, Al Bahya, Al Jurf 3, Ajman, Uae.",
+  "TELEPHONE": "67481778"
+ },
+ {
+  "PROVIDER NAME": "Metromeds Pharmacy - Ajman",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Metro Meds Pharmacy, Ground Floor, Bader Bldg, Al Nuaimia Area, Sheilh Khalika Street, Ajman",
+  "TELEPHONE": "67469692"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy L.L.C (Sole Proprietorship) Branch-05 ( Ex. Thumbay Pharmacy 1)",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Thumbay Pharmacy-1 Mariyam Ahmed Wosaeed Mohammed Al Kitbi Building Al Ittihad Street Mushrif Commercial Area,Rashidiya 1 P.O Box 4184 Ajman",
+  "TELEPHONE": "67453771"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy L.L.C (Sole Proprietorship) Branch 04( Ex.Thumbay Pharmacy 5)",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Al Siwan Al Ittihad Building(Previously Human Appeal Building) Bader Street P.O Box 4184 Ajman",
+  "TELEPHONE": "67454883"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy L.L.C (Sole Proprietorship)-Branch 01( Ex. Thumbay Pharmacy 15)",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "StreetSheikh Maktoum Bin Rashid St. Ajman Building Name-Al Kenz Hypermarket City-Hamidiya StateAjman",
+  "TELEPHONE": "67450792"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy Llc (Sole Proprietorship) Branch 03( Ex.Thumbay Pharmacy 13)",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "Area Naumiyeah-1, Behind Old Souq Al Markazi Street Kuwait Street Building Name Rashed Muhammed Obaid Bin Jarsh Building City Ajman State Ajman",
+  "TELEPHONE": "67319494"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 16",
+  "P": "AJM",
+  "AREA": "",
+  "ADDRESS": "City Tower Block A2 City Tower Sheikh Khalifa Bin Zayed St, Al Nuaimia 3",
+  "TELEPHONE": "7453638"
+ },
+ {
+  "PROVIDER NAME": "Ahlan Wa Sahlan Medical Center",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Wazir Building, Opposite Al Qantarah Restaurant, Al Nahda",
+  "TELEPHONE": "5306161"
+ },
+ {
+  "PROVIDER NAME": "Al Deyafa Medical Centre- SHJ",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Block A, Al Maha Twin Tower , Ground Floor, Al Nahda Park Round About, Al Nahda, Sharjah",
+  "TELEPHONE": "65301717"
+ },
+ {
+  "PROVIDER NAME": "Al Mansour Medical Center",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Abdul Aziz Al MAjid Tower M",
+  "TELEPHONE": "65372050"
+ },
+ {
+  "PROVIDER NAME": "Al Minha Medical Centre - SHJ",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Ibn Batouta building, Near Abu shagara park, Behind Amber centre, Masood bin Rabeeh street, SHJ",
+  "TELEPHONE": "5599541"
+ },
+ {
+  "PROVIDER NAME": "Al Qassimmiah Medical Clinic",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Ali Moosa Building, First Floor, Near Sharjah Cement Factory, Sajaa Industrial Area, Sharjah",
+  "TELEPHONE": "65310050"
+ },
+ {
+  "PROVIDER NAME": "Baghdad Medical Centre",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "NBAD BUILDING AL MADAM ROUND ABOUT SHARJAH",
+  "TELEPHONE": "8861115"
+ },
+ {
+  "PROVIDER NAME": "Dooa Clinic _SHJ",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Hamriyah Freezone Sharjah",
+  "TELEPHONE": "65260188"
+ },
+ {
+  "PROVIDER NAME": "Dr. Ali S. Hindi Clinic",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Wahda Street, Abu Shagara , Sharjah",
+  "TELEPHONE": "65746006"
+ },
+ {
+  "PROVIDER NAME": "Rukin Al Shifaa Medical Centre",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Muthwa Building, Near Rolla Square Park, Sharjah.",
+  "TELEPHONE": "65740800"
+ },
+ {
+  "PROVIDER NAME": "Saif Zone Medical Centre FZC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Clinic F2-42A,Saifzone Sharjah",
+  "TELEPHONE": "65578471"
+ },
+ {
+  "PROVIDER NAME": "Specialized Medical Center - University Of Sharjah",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Building, M2, University Of Sharjah, P.O Box 27272, Sharjah, UAE",
+  "TELEPHONE": "65050244"
+ },
+ {
+  "PROVIDER NAME": "University of Sharjah Girls Clinic",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Building W2. University of Sharjah, P.O Box 27272, Sharjah",
+  "TELEPHONE": "65053291"
+ },
+ {
+  "PROVIDER NAME": "Al Saha Wa Al Shifa Hospital For One Day Surgery",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Saha Al Shifa Hospital,3Rd Floor,Rolla Mall,Rolla Sharjah Uae",
+  "TELEPHONE": "65632618"
+ },
+ {
+  "PROVIDER NAME": "Abwab Bait Al Maqdes Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Khan St, Opposite Arcadia Hotel Suite, Sharjah Uae",
+  "TELEPHONE": "65565363"
+ },
+ {
+  "PROVIDER NAME": "Aknaf Bait Al Maqdes Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Baker 5 Tower, Corniche Al Khan Street , Sharjah Uae",
+  "TELEPHONE": "65500602"
+ },
+ {
+  "PROVIDER NAME": "Al Fardan Centre Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Inside Al Fardan Centre,Buhaira Corniche Rd,Sharjah,Shop G-16-20",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Al Fares Pharmacy - SHJ",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Zakhir 1 Tower Al Taawun Road, Opposite Al Khaleej Mall, Al Mamzer, Sharjah Uae",
+  "TELEPHONE": "65304212"
+ },
+ {
+  "PROVIDER NAME": "Al Ghraif Pharmacy",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop Na 11, Tiger Building, National Paints R/A, Sharjah",
+  "TELEPHONE": "65352971"
+ },
+ {
+  "PROVIDER NAME": "Al Mansoor Pharmacy - Life Healthcare",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Wahda St., Opp.Sharjah City Centre, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Al Qassimiah Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Ali Moosa Building, Ground Floor, Near Sharjah Cement Factory, Sajaa Industrial Area, Sharjah",
+  "TELEPHONE": "65310177"
+ },
+ {
+  "PROVIDER NAME": "Al Ruayah Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Ground Floor, Safari Mall, Shop Number 80 81, Safari Hypermarket, Muwaileh",
+  "TELEPHONE": "65463681"
+ },
+ {
+  "PROVIDER NAME": "Al Taqwa Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Abdul Aziz Al Majed Building, Al Nahda St, Sharjah Uae",
+  "TELEPHONE": "65319211"
+ },
+ {
+  "PROVIDER NAME": "Albarsha Pharmacy",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop 1, Emirates Al Manama Centre,Next To Fire Station Roundabout Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Alnajim Alazraq Pharmacy",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop No.1Damas 57 Bldg Al Nahda Area Next To Ansar Mall, Al Ittihad Road, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Anwar Bait Al Maqdes Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Mb-6 Bldg,Shop No.2, University City Road, Muwaileh, Sharjah Uae",
+  "TELEPHONE": "65426300"
+ },
+ {
+  "PROVIDER NAME": "Asia Pharmacy - SHJ",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Lateefa Building ,Industrial Area 2,Shp No 4 ,Al Rahah Medical Center Same Building,Sharjah",
+  "TELEPHONE": "65335970"
+ },
+ {
+  "PROVIDER NAME": "Bait Al Maqdes Al Jadeedah Pharmacy - SHJ",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Sahara Tower 5- Al Dha, Sharjah, Uae",
+  "TELEPHONE": "65484270"
+ },
+ {
+  "PROVIDER NAME": "Bait Al Maqdes Pharmacy L.L.C",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Wahda St. Near Pizza Hut , Sharjah Uae",
+  "TELEPHONE": "65534363"
+ },
+ {
+  "PROVIDER NAME": "Golden Life Pharmacy - SHJ -Life Healthcare Group",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop No.1, The Residence Viii, Al Taawun, Sharjah, Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 19 L.L.C.",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Alami Centre, Shop No.4 5, Al Alami Centre -1 , Near Spinneys King Faisal Street, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy Branch 5",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Hala Pharmacy Br 5, Shop No 1,2 14, Rolla Building, Rolla, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC - Branch 28",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop 1, Unit No. 1006, Oasis Malls, Sharjah Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC - Branch 46",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop No. 3 , Al Shaam Tower, Al Taawun Roundabout, Sharjah- UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC Branch 27",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Unit no. J-040, Ground Floor, Matajer Al Juraina, Sharjah - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC Branch 33",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop Unit No. 1 2, Golden Tower, Buheirah Corniche, Sharjah UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC Branch 35",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop No.1, Arab Doctors Specialist Center Building, Al Taawun Rd., Sharjah UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC Branch 42",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Unit 14 15, Ground Floor, Nesto Hypermarket, Butina, Sharjah - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC Branch 44",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Unit 162, Ground Floor, Sahara Centre, Sharjah UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 10",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Hala Phy Br 10 - Showroom No 1, Bdng No 997, Al Nasserya, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 11",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop No 1, Buf Year 222 Bld, Plot No 374, Al Qasimia, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 12",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop No 1, Manazil Tower 1, Plot No 89, Al Qassimiya, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 18",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop G2, Salem Tower (Plot 430), Near United Arab Bank,oppt to Al Noor Mosque, Al Majaz 1, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 20",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Unit B051, Sharjah City Centre ,Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 26",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Unit No.G.06, Ground Floor, Mega Mall, Sharjah Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 4",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Khaleej Bld, Near Sharjah Rotana Hotel,Arabian Golf Street,Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 6",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop 2, Corniche B Buildg, Buhaira Corniche,Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 7",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Hala Phy Br 7,Al ZaAbi Bldg, Plot No 315, Jamal Abdul Nassar Street, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy LLC-Branch 9",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop 1 2,Al Arouba Build,Al Arouba Street,Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hamad Al Oula Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Opp Al Qassimi Hospital- Shahba Area",
+  "TELEPHONE": "65061600"
+ },
+ {
+  "PROVIDER NAME": "Majid Pharmacy",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "P O Box 393, Rolla, Sharjah",
+  "TELEPHONE": "65683422"
+ },
+ {
+  "PROVIDER NAME": "Modern Bait Al Maqdes Pharmacy L.L.C",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Majaz Northern Park St, Al Majaz Pearl Bldg., Sharjah Uae",
+  "TELEPHONE": "65552070"
+ },
+ {
+  "PROVIDER NAME": "Modern Pharmacy L.L.C - Shj Br -Br 01",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Next To Jesco Supermarket Yarmouk Sharjah -Po Box61351",
+  "TELEPHONE": "65668375"
+ },
+ {
+  "PROVIDER NAME": "Noor Al Falah Pharmacy",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Indus. Area No11, Behind 4Th Indus. Street., Bldg. No.8, Sharjah",
+  "TELEPHONE": "65426611"
+ },
+ {
+  "PROVIDER NAME": "Noor Al Nahdah Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop 10 11, Ground Floor, Al Kakooli Building, Al Khan, Sharjahlandmark Opposite Old Expo Centre Zip Code 28216",
+  "TELEPHONE": "65561122"
+ },
+ {
+  "PROVIDER NAME": "Rawabina Pharmacy - SHJ",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Al Khan St. Al Khaledia, Sharjah Uae",
+  "TELEPHONE": "65519654"
+ },
+ {
+  "PROVIDER NAME": "Sahara Life Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "B-04, Next To Spinneys, Sahara Centre, Sharjah",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Saif Zone Pharmacy FZC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "F2 Area Saif Zone Opp. Purvi Enterprises F2 Area, Saif Zone",
+  "TELEPHONE": "5578560"
+ },
+ {
+  "PROVIDER NAME": "Shams Al Nahda Pharmacy LLC",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Haafiz Building, opposite Safeer Mall, Street 63, Al Nahda",
+  "TELEPHONE": "5722096"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC BR 5",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Thumbay Building, Next To Thumbay Hospital Day Care. Al Orouba Street,Opposite Al Kabael Centre Near Rolla Mall Rolla-Sharjah",
+  "TELEPHONE": "65671482"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC Br 6 Sharjah",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Next To Adnoc Petrol Station, Near To Sharjah Blood Transfusion Center, Opposite Old Military Camp, University City Road, Sharjah, Uae",
+  "TELEPHONE": "65356789"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC Br 8 Sharjah",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Area Muwaileh Street Maliha Street Bldg Name M2038 City Sharjah Land Mark University Of Sharjah For Men State Sharjah",
+  "TELEPHONE": "65166255"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC Branch 7 Sharjah",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Area Muwailah. Street Maliha Street. Bldg Name W2037 City Sharjah. Land Mark University Of Sharjah For Women. State Sharjah.",
+  "TELEPHONE": "65053255"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC Branch 9 Sharjah",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Area Al Majaz No-2 Street Al Wahda Street Bldg Name Way-In Building Land Mark Al Wahda Post Office City Sharjah Po Box-39845 State Sharjah",
+  "TELEPHONE": "65370499"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC SHJ BR - Branch 11",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Abu Shagara, S116-Al Wihda Street, Obeid Saeed Bldg No-4, Behined Km Trading, Sharjah",
+  "TELEPHONE": "65525370"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy LLC SHJ Branch 3",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Thumbay Medical Dental Speciality Center, Building No 384, Next To National Paint Round About, Opposite Fire Station, Muwaileh, Sharjah, P.O Box 61351,",
+  "TELEPHONE": "65356497"
+ },
+ {
+  "PROVIDER NAME": "Wajeat Al Khoor Pharmacy - life healthcare - SHJ",
+  "P": "SHJ",
+  "AREA": "",
+  "ADDRESS": "Shop No. 4 5, Buheirah Corniche Building B, Sharjah Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Alahlia Medical Centre",
+  "P": "RAK",
+  "AREA": "",
+  "ADDRESS": "Ground Floor, Creek Plaza Bldg., Near Rak Gas And Opp. Expo Centre, Al Jazah Road, Ras Al Khaimah , P. O. Box 13118",
+  "TELEPHONE": "72331533"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Clinic LLC RAK Branch",
+  "P": "RAK",
+  "AREA": "",
+  "ADDRESS": "Near Double Tree Hilton Hotel - Al Jazah Rd - Ras Al Khaimah",
+  "TELEPHONE": "72267464"
+ },
+ {
+  "PROVIDER NAME": "Al Zahrawi Hospital One Day Surgery LLC",
+  "P": "RAK",
+  "AREA": "",
+  "ADDRESS": "Sheik Ahmed Bin Humaid Al Qassimi Bldg.,Opp. Choithram Supermarket",
+  "TELEPHONE": "2288544"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 25",
+  "P": "RAK",
+  "AREA": "",
+  "ADDRESS": "Shop No Gf 76-77, Ground Floor, Al Hamra Mall, Ras Al Khaimah Uae",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 34 LLC",
+  "P": "RAK",
+  "AREA": "",
+  "ADDRESS": "(opp) Manar Mall , Al Nakheel area, Ras Al Khaimah , UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Hala Pharmacy 36 LLC",
+  "P": "RAK",
+  "AREA": "",
+  "ADDRESS": "Shop no.5, Block 6, on Plot no. 406060029, Al Kharain Area, RAK",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Pharmacy 7",
+  "P": "RAK",
+  "AREA": "",
+  "ADDRESS": "Thumbay Clinic Building Next To Double Tree Hilton Hotel Al Jaza Street , Al Nakheel Ras Al Khaimah P.O Box 328199 Ras Al Khaimah",
+  "TELEPHONE": "72267190"
+ },
+ {
+  "PROVIDER NAME": "Thumbay Hospital LLC Fujairah Branch (Ex GMC Hospital Research Centre - FUJ)",
+  "P": "FUJ",
+  "AREA": "",
+  "ADDRESS": "Next To Fujairah Football Stadium",
+  "TELEPHONE": "92244233"
+ },
+ {
+  "PROVIDER NAME": "Adco Medical Centre",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Adnoc Onshore,Khalidiya Abudhabi",
+  "TELEPHONE": "2601858726043013"
+ },
+ {
+  "PROVIDER NAME": "Adnoc Technicial Instituite Clinic-Ati",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Near Schlumberger - Al Shamkhah - Abu Dhabi",
+  "TELEPHONE": "26022894"
+ },
+ {
+  "PROVIDER NAME": "Al Emarat Al Awaal Medical Center Ex Emirates Filipino Medical Clinic",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Baniyas Co-operative Building, Sadd Maareb Pharmacy Building, Baniyas East 8",
+  "TELEPHONE": "5832625"
+ },
+ {
+  "PROVIDER NAME": "Al Farabi Medical Center L.L.C. (Ex Al Farabi Medical Clinic)",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Flat 13, First Floor, Al Fardan Exchange Building, Above Al Fardan Exchange, Main Street, Al Ain U.A.E",
+  "TELEPHONE": "37515383"
+ },
+ {
+  "PROVIDER NAME": "Al Hassan Dental Center",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Al Hassan Dental Center, Hessa Bint Mohammed 118 St. Near Tashseel Al Ain Uae",
+  "TELEPHONE": "37376003"
+ },
+ {
+  "PROVIDER NAME": "Al Maria Medical Centre",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Near Safa Express Supermarket,Electrea Street",
+  "TELEPHONE": "26339722"
+ },
+ {
+  "PROVIDER NAME": "Al Noor Medical Center - AAN",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Alor Medical Cenetr Zayed Bin Sultan Street Bldg .81St Floor Flat 2 Pobox 1576 Alain",
+  "TELEPHONE": "27662072"
+ },
+ {
+  "PROVIDER NAME": "Al Raneen Medical Center - AAN",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Town Centre, Lucky Plaza Building, Near Hayat Centre, M2 Floor",
+  "TELEPHONE": "27655602"
+ },
+ {
+  "PROVIDER NAME": "Al Sultan Advanced Medical Poly Clinic - (Al Sultan Modern Hospital)",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Street 69, Jafeer Jadeed, Falaj Hazza, Al Ain, Abu Dhabi",
+  "TELEPHONE": "37806111"
+ },
+ {
+  "PROVIDER NAME": "Arabian Island Medical Center - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Bldg 209, Same Bldg Al Jazeera Pharmacy, Main Road, Mussafah Shabaya, Abu Dhabi",
+  "TELEPHONE": "5520250"
+ },
+ {
+  "PROVIDER NAME": "Asab Clinic - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Al Dhafra ,Western Region,Onshore Abudhabi",
+  "TELEPHONE": "26034222"
+ },
+ {
+  "PROVIDER NAME": "Burjeel Oasis Medical Centre LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Aldhafra Region, Madinat Zayed, Main Street, Aldhafra Sports Club Buildings Block B",
+  "TELEPHONE": ""
+ },
+ {
+  "PROVIDER NAME": "Central Island Clinic",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Off Shore Abudhabi",
+  "TELEPHONE": "26059602"
+ },
+ {
+  "PROVIDER NAME": "Clarion Medical Center",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Clarion Medical Center- Mezannine Floor, Health First Pharmacy Building (Behind Choitrams Supermarket) Al Khalidiya, Abu Dhabi, Uae",
+  "TELEPHONE": "26666675"
+ },
+ {
+  "PROVIDER NAME": "District, Al Ain, Near Al Ansari Exchange. Dr. Gupta Medical Clinic",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Km Trading Building,1St Floor Office 11,Electra Stree Abu Dhabi",
+  "TELEPHONE": "26337357"
+ },
+ {
+  "PROVIDER NAME": "Dr. Moopens Medical Polyclinic Abu Dhabi",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Near 1St Signal (Masjid), Sector-9, Sannayah, Musaffah, Abu Dhabi Uae",
+  "TELEPHONE": "44400500"
+ },
+ {
+  "PROVIDER NAME": "Emirates Clinic Medical Services Centre",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Main Street,Town Centre Near Fifa Sport,Yateem Opticals,Opposite Sheikh Salam Masjid",
+  "TELEPHONE": "37644744"
+ },
+ {
+  "PROVIDER NAME": "Excellency Ghayathi Poly Clinics",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "13 Al Faseehah St - Ghiyathi - Abu Dhabi",
+  "TELEPHONE": "26777676"
+ },
+ {
+  "PROVIDER NAME": "Golden Choice Medical Center",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Musafah- Sanayya , M14, Auh -Uae",
+  "TELEPHONE": "25535544"
+ },
+ {
+  "PROVIDER NAME": "Healthline Medical Center LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Near One Time supermarket Al Riyadh, Shamkha Abu Dhabi",
+  "TELEPHONE": "25668600"
+ },
+ {
+  "PROVIDER NAME": "Holistic Medical Centre Sole Propreitorship LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Https//Goo.Gl/Maps/E5Rxlrwsatzb1Hym6",
+  "TELEPHONE": "26661567"
+ },
+ {
+  "PROVIDER NAME": "Ideal Medical Center LLC - Al Ain Branch",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "72 Hamdan Bin Zayed",
+  "TELEPHONE": "27626046"
+ },
+ {
+  "PROVIDER NAME": "Jabel Dhana Clinic - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Jabal Al Dhana Field, Al Dhafra Region, Abu Dhabi, Uae",
+  "TELEPHONE": "26022336"
+ },
+ {
+  "PROVIDER NAME": "M40, Km Trading Building, Icad, 16 Street Musaffah.",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "80055",
+  "TELEPHONE": ""
+ },
+ {
+  "PROVIDER NAME": "Munich Medical Rehabilitation Center LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "101 Opposite Falaj Hazza Police Station 4 Falaj Hazza Alain",
+  "TELEPHONE": "7638001"
+ },
+ {
+  "PROVIDER NAME": "NEW HEALTHLINE MEDICAL CENTER (ExNew Sadd Maareb Medical Centre-AUH)",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Old Shahama,Near To Adnoc Petrol Station,Abudhabi,Uae",
+  "TELEPHONE": "25633073"
+ },
+ {
+  "PROVIDER NAME": "North Island Clinic",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Off Shore Abudhabi",
+  "TELEPHONE": "26059406"
+ },
+ {
+  "PROVIDER NAME": "Pride Medical Center",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Near Km Hypermarket And Beside Auto Spa Cars, Abu Obaida Bin Al Jarrah St., Al Falah St.",
+  "TELEPHONE": "23799892"
+ },
+ {
+  "PROVIDER NAME": "Prime Cure Medical Center",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Mezar Salem Besude Wear Mart, Carrefour and Kalyan Silk Airport Road Al Falah Street Abu Dhabi",
+  "TELEPHONE": "6342424"
+ },
+ {
+  "PROVIDER NAME": "Providence International Medical Cosmetic Center LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Musaffah-38,Shop0405 Ground Floor,Maryam Abdalla Mehmood Building.",
+  "TELEPHONE": "24454867"
+ },
+ {
+  "PROVIDER NAME": "Sadd Maareb Medical Centre - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Adnoc Petrol, East 8, Baniyas, Abu Dhabi",
+  "TELEPHONE": "5832629"
+ },
+ {
+  "PROVIDER NAME": "Sahel Clinic - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Al Dhafra ,Western Region,Onshore Abudhabi",
+  "TELEPHONE": "26049928"
+ },
+ {
+  "PROVIDER NAME": "Sas Al Nakhl Clinic",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Adr Refinary Abudhabi",
+  "TELEPHONE": "26022011"
+ },
+ {
+  "PROVIDER NAME": "South Island Clinic",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Off Shore Abudhabi",
+  "TELEPHONE": "26059012"
+ },
+ {
+  "PROVIDER NAME": "Stanford Medical Center-Sole Proprietorship LLC ( Ex. Ghanem Medical Clinic)",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Hamad Hafsan Al Mansouri Bldg., Behind Cassels Residence Hotel, Electra St.",
+  "TELEPHONE": "6311745"
+ },
+ {
+  "PROVIDER NAME": "Sultan Medical Centre - AAN",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Central District, Al Ain, Abu Dhabi",
+  "TELEPHONE": "37641525"
+ },
+ {
+  "PROVIDER NAME": "Tabibak Mobile Medical Unit",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Najda Street",
+  "TELEPHONE": "6225566"
+ },
+ {
+  "PROVIDER NAME": "The Health Team Medical Center LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Al Mutaradh Alain",
+  "TELEPHONE": "27372211"
+ },
+ {
+  "PROVIDER NAME": "Yas Healthcare LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Dusit Thani Commercial Complex - P.O. Box 44852 Muroor Road, Opposite Al Jazeera Club - Abu Dhabi, UAE",
+  "TELEPHONE": "23336999"
+ },
+ {
+  "PROVIDER NAME": "Safe Care Dental Center LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Baniyas East 3 Al Mafraq, Taf Shadad Mohammed Al Zahri Building",
+  "TELEPHONE": "25868655"
+ },
+ {
+  "PROVIDER NAME": "Al Taj Medical Laboratory",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Flat Mz1, Mezzanine Floor, Al Fardan Exchange Building, Above Al Fardan Exchange, Main Street, Al Ain U.A.E",
+  "TELEPHONE": "23766682"
+ },
+ {
+  "PROVIDER NAME": "Dental - Abu Dhabi",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Diagnostic Centers & Labs - Abu Dhabi",
+  "TELEPHONE": ""
+ },
+ {
+  "PROVIDER NAME": "Al Dhannah Hospital (Ex Al Ruwais Hospital - AUH)",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Abu Dhabi, Ruwais, Near Ruwais Mall",
+  "TELEPHONE": "8007267"
+ },
+ {
+  "PROVIDER NAME": "Life Line Hospital Al Musafah L.L.C (ex- Lifeline Hospital - Day Care Surgery)",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Po Box No 92313,16Th, Street, Sanayya 7, Industrial Area, Musaffah, Abu Dhabi, United Arab Emirates (Uae)",
+  "TELEPHONE": ""
+ },
+ {
+  "PROVIDER NAME": "Al Marwa Tower, Electra Street Abu Dhabi",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "80055",
+  "TELEPHONE": ""
+ },
+ {
+  "PROVIDER NAME": "Abdullah Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "7Th Sreet,Sanaiya.Alain",
+  "TELEPHONE": "37216444"
+ },
+ {
+  "PROVIDER NAME": "Al Abeer Pharmacy LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Al Raha Building Next To Adnoc Petrol Station Hamdan Street Delma Street Madinat Zayed Area, Abu Dhabi",
+  "TELEPHONE": "26330440"
+ },
+ {
+  "PROVIDER NAME": "Al Ahalia International Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Shabia 11, near Al Noor Hospital",
+  "TELEPHONE": "25592624"
+ },
+ {
+  "PROVIDER NAME": "Al Amazon Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Hamdan Street",
+  "TELEPHONE": "25513642"
+ },
+ {
+  "PROVIDER NAME": "Al Bateen Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Abu Dhabi",
+  "TELEPHONE": "26766610"
+ },
+ {
+  "PROVIDER NAME": "Al Daman Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "U.A.E-Abu Dhabi-Khalifa Street-Behind Mediclinic Al Noor Hospital -Same Building With Pafka Flower Shop",
+  "TELEPHONE": "26320909"
+ },
+ {
+  "PROVIDER NAME": "Al Dhafra Field Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Al Dhafra Region,Beda Zayed, Abu Dhabi",
+  "TELEPHONE": "28845273"
+ },
+ {
+  "PROVIDER NAME": "Al Mafraq Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Baladia Souq, Near Hamza Secondary School",
+  "TELEPHONE": "5833550"
+ },
+ {
+  "PROVIDER NAME": "Al Magd Center Pharmacy LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Building Number 5, Behind Al Masood motors, Saniya",
+  "TELEPHONE": "37216406"
+ },
+ {
+  "PROVIDER NAME": "Al Saada Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Abudhabi,Pbox 126835",
+  "TELEPHONE": "26278313"
+ },
+ {
+  "PROVIDER NAME": "Al Salama One Day Surgery Centre Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Baniyas - Abu Dhabi",
+  "TELEPHONE": "22050366"
+ },
+ {
+  "PROVIDER NAME": "Al Senaeya Pharmacy Ex. Al Sanaiya Pharmacy AAN",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Saeed Hilal Abdullah Al Kuwaiti, Near fish market, Muraba Area, town center, Al Ain",
+  "TELEPHONE": "7657105"
+ },
+ {
+  "PROVIDER NAME": "Al Sila Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Shabia Baya Al Sila",
+  "TELEPHONE": "28722087"
+ },
+ {
+  "PROVIDER NAME": "Al Thuraya Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Abu Dhabi",
+  "TELEPHONE": "26427827"
+ },
+ {
+  "PROVIDER NAME": "Al Zia Pharmacy - Mussafah_AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "shabiya Khalifa, New Mussafah Sector 12, P.O.Box13111, Abu Dhabi",
+  "TELEPHONE": "5529113"
+ },
+ {
+  "PROVIDER NAME": "Alahliya Alain Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Shaikh Said Ben Tahnon Gold Market Bus Station Street Main Road Gold Souq Al Ain, AUH",
+  "TELEPHONE": "7320096"
+ },
+ {
+  "PROVIDER NAME": "Alahlya Grand Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "infront SFC Madinat Zayed",
+  "TELEPHONE": "4498379"
+ },
+ {
+  "PROVIDER NAME": "Alasaala Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Aldhafrah school Mussafah 9, Muhammed Bin Zayed City",
+  "TELEPHONE": "25529577"
+ },
+ {
+  "PROVIDER NAME": "Althiqa Al Dowaliah Pharmacy LLC - Ex Urban International Pharmacy- AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "ADCP Bldg. Shop 4 Plot 85 Muroor Street near Emirates Discount, AUH",
+  "TELEPHONE": "5584414"
+ },
+ {
+  "PROVIDER NAME": "Althiqa Elite Pharmacy Llc ( Ex. Prime Cure Pharmacy - Sole Propreitorship Llc)",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Mezar Salem Besude Wear Mart, Carrefour and Kalyan Silk Airport Road Al Falah Street Abu Dhabi",
+  "TELEPHONE": "6342424"
+ },
+ {
+  "PROVIDER NAME": "Burjeel Pharmacy Al Marina LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "P3 Marina Mall, Corniche Road, Abu Dhabi, Uae",
+  "TELEPHONE": ""
+ },
+ {
+  "PROVIDER NAME": "Daar Al Misbah Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Musafah- Sanayya , M11, Auh -Uae",
+  "TELEPHONE": "25535544"
+ },
+ {
+  "PROVIDER NAME": "Elyazia Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Abu Dhabi",
+  "TELEPHONE": "24493700"
+ },
+ {
+  "PROVIDER NAME": "Golden Choice Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Musafah- Sanayya , M10, Auh -Uae",
+  "TELEPHONE": "25535544"
+ },
+ {
+  "PROVIDER NAME": "Green Hills Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Mohamad Bin Zayed City ,M 11 , Buiding 150 Shop 1",
+  "TELEPHONE": "26785577"
+ },
+ {
+  "PROVIDER NAME": "Hameem Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Musafah- Sanayya , M6, Auh -Uae",
+  "TELEPHONE": "25535544"
+ },
+ {
+  "PROVIDER NAME": "Hani Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Hani Pharmacy, Hamdan Street, Abu Dhabi Uae",
+  "TELEPHONE": "26778501"
+ },
+ {
+  "PROVIDER NAME": "Khalid Bin Al Waleed Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Electra Street, Behind Old Honda Futtaim Showroom",
+  "TELEPHONE": "26744108"
+ },
+ {
+  "PROVIDER NAME": "Land Mark Plaza Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Abu Dhabi",
+  "TELEPHONE": "26729400"
+ },
+ {
+  "PROVIDER NAME": "Lara Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Eida Butti Al Qubaisi, behind green house, between Electra and Hamdan st., Abu Dhabi",
+  "TELEPHONE": "25757434"
+ },
+ {
+  "PROVIDER NAME": "Lifeline Pharmacy Al Musafah - (ex- Lifeline Pharmacy - Mussafah)",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Po Box No 92313,16Th, Street, Sanayya 7, Industrial Area, Musaffah, Abu Dhabi, United Arab Emirates (Uae)",
+  "TELEPHONE": ""
+ },
+ {
+  "PROVIDER NAME": "Lulu Khalidyah Pharmacy LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Khalidiyah Mall, Abu Dhabi",
+  "TELEPHONE": "26354440"
+ },
+ {
+  "PROVIDER NAME": "Maryam Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Al Asri Bin Zayed Al Haili Building, Ground Floor, Shop No4, Defence Road, Abu Dhabi",
+  "TELEPHONE": "26421043"
+ },
+ {
+  "PROVIDER NAME": "Medi Life Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "C3 24_1 Shop No 3 And 4 Old Airport Road Opp. Immigration Bridge Abu Dhabi",
+  "TELEPHONE": "24455668"
+ },
+ {
+  "PROVIDER NAME": "Medicina Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Khalifa Street, Opp Al Or Hospital",
+  "TELEPHONE": "26589543"
+ },
+ {
+  "PROVIDER NAME": "Mubarak Pharmacy - AAN",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Near K.M. Trading, Old immigration road, AAN",
+  "TELEPHONE": "7515992"
+ },
+ {
+  "PROVIDER NAME": "Munich Medical Center Pharmacy LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "St 4, Wahdah Building, Ahmad Hamad Sultan, Al Mnaizlah, Fallaj Hazza, Al Ain, Abu Dhabi",
+  "TELEPHONE": "27638001"
+ },
+ {
+  "PROVIDER NAME": "Natural Life Pharmacy LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Dalma Mall, Second Floor, Abu Dhabi",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "New Al Daman Pharmacy - Abu Dhabi",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Hamdan Bin Mohammed Street, Abu Dhabi",
+  "TELEPHONE": "6216700"
+ },
+ {
+  "PROVIDER NAME": "New Al Sham Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Behind Centarl Post Office",
+  "TELEPHONE": "26262080"
+ },
+ {
+  "PROVIDER NAME": "New Dar Nouri Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "New Dar Nouri Pharmacy P.O Box 26790, Al Khalidiya St., Abu Dhabi, Uae",
+  "TELEPHONE": "26341436"
+ },
+ {
+  "PROVIDER NAME": "New Land Mark Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Abu Dhabi",
+  "TELEPHONE": "26316886"
+ },
+ {
+  "PROVIDER NAME": "New Sadd Maareb Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Near to Emirates Transport, Shahama, Abu Dhabi",
+  "TELEPHONE": "5633073"
+ },
+ {
+  "PROVIDER NAME": "Pride Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Street No.15,Batha Al Hayer,Sanaiya,Al Ain",
+  "TELEPHONE": "37998706"
+ },
+ {
+  "PROVIDER NAME": "Real 7 Pharmacy DMCC Branch",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Unit No. M032, Ground Floor, My City Centre Masdar, Masdar City, Abu Dhabi UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Sadd Maareb Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Adnoc Petrol, East 8, Baniyas, Abu Dhabi",
+  "TELEPHONE": "25832520"
+ },
+ {
+  "PROVIDER NAME": "Sas Al Nakhl Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Adr Refinary Abudhabi",
+  "TELEPHONE": "26022017"
+ },
+ {
+  "PROVIDER NAME": "Sea City Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Musafah- Sanayya , M14, Auh -Uae",
+  "TELEPHONE": "25535544"
+ },
+ {
+  "PROVIDER NAME": "Sea City Pharmacy Musafah",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "New Shahama Duabi -Mafreq Road, Auh -Uae",
+  "TELEPHONE": "25535544"
+ },
+ {
+  "PROVIDER NAME": "Shefaa Al Madeena Pharmacy LLC - Branch of Abu Dhabi 1",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Ground Floor, Bin Butti Building, Al Khalidiya - Abu Dhabi",
+  "TELEPHONE": "25837954"
+ },
+ {
+  "PROVIDER NAME": "Standard Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Shop No. 1, New Municipality Building, M-37 Industrial Area, Near Al Madina Hypermarket,Musaffah",
+  "TELEPHONE": "25513394"
+ },
+ {
+  "PROVIDER NAME": "Talat Pharmacy Al Musaffah",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Musaffah Sanayia M39 Near Al Madina Super Market Musaffah Abudhabhi",
+  "TELEPHONE": "25527909"
+ },
+ {
+  "PROVIDER NAME": "Target Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Building No.8, Al Maqta Area, Between Two Bridges, Abu Dhabi",
+  "TELEPHONE": "25585133"
+ },
+ {
+  "PROVIDER NAME": "Thuhfa Al Andalus Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Thuhfa Al Andalus Pharmacy, Po Box No-30520,Shop No-1,Bldg. No-C-6,Musaffah Me/11,Abu Dhabi",
+  "TELEPHONE": "25517190"
+ },
+ {
+  "PROVIDER NAME": "Town Life Pharmacy LLC",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Unit No, RA 18 (A15), Opp. Abu Dhabi Coop, Ground Floor, Abu Dhabi Mall, Abu Dhabi - UAE",
+  "TELEPHONE": "45610000"
+ },
+ {
+  "PROVIDER NAME": "Ultra Medical Center Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "VILLA 20, Al Jimi Mall, Zayed, Al Awal Street, Hmadan Bin Mohammed Street, Al Jimi",
+  "TELEPHONE": "7620055"
+ },
+ {
+  "PROVIDER NAME": "Waheedah Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Abdulla Bin Hader Bldg., Near Habib Bank AG Zurich, Muroor Rd., Al Falah St., Old Passport Rd. Area",
+  "TELEPHONE": "26417226"
+ },
+ {
+  "PROVIDER NAME": "Western Towers Al Ahalia Pharmacy",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Mze-19, Plot No 158, Shop No 10, Sanaya, Madina Zayed, P.O. Box - 2419",
+  "TELEPHONE": "28841020"
+ },
+ {
+  "PROVIDER NAME": "Yusry Pharmacy - AUH",
+  "P": "AUH",
+  "AREA": "",
+  "ADDRESS": "Mohamed Salem Almor Abdala Salam Elhabrosh, Al Kalidia St., Sheik Zayed 1, Al Khalidiya, Abu Dhabi",
+  "TELEPHONE": "6669073"
  }
 ]
