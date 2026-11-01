@@ -4244,11 +4244,11 @@
       "AUH"
     ],
     "file": "data/union-nextcare-pcp-auh-current.json",
-    "providers": 0,
+    "providers": 147,
     "network_id": "Union NextCare PCP AUH Current 2026",
     "network_source": "official",
     "layers": {
-      "official": 0,
+      "official": 147,
       "chain": 0,
       "geo_only": 0
     }
