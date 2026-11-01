@@ -15720,30 +15720,6 @@
     }
   },
   {
-    "id": "takafol-mednet-excluded-reimbursement-provider",
-    "name": "Takafol Emarat — MEDNET - EXCLUDED REIMBURSEMENT PROVIDER",
-    "insurer": "Takafol Emarat",
-    "coverage": "Both",
-    "emirates": [
-      "AJM",
-      "AUH",
-      "DXB",
-      "FUJ",
-      "RAK",
-      "SHJ",
-      "UMQ"
-    ],
-    "file": "data/takafol-mednet-excluded-reimbursement-provider.json",
-    "providers": 0,
-    "network_id": "mednet-excluded-reimbursement-provider",
-    "network_source": "official",
-    "layers": {
-      "official": 0,
-      "chain": 0,
-      "geo_only": 0
-    }
-  },
-  {
     "id": "takafol-mednet-gold",
     "name": "Takafol Emarat — MEDNET - GOLD",
     "insurer": "Takafol Emarat",

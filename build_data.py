@@ -71,6 +71,9 @@ def load_takafol_plans() -> list[tuple[str, str, str, str, list[str], str]]:
             network_name = (row.get('NETWORK_NAME') or '').strip()
             if not network_id or not network_name:
                 continue
+            # Skip exclusion lists - they are not positive network plans
+            if network_id == 'mednet-excluded-reimbursement-provider':
+                continue
             plan_id = f'takafol-{network_id}'
             plans.append((
                 plan_id, f'Takafol Emarat — {network_name}', 'Takafol Emarat',
