@@ -2,6 +2,12 @@
 *.csv
 *.txt
 .~lock.*
+# Large data files in root (tracked in data/)
+*.json
+!data/*.json
+!sources/merged-registry.json
+!plans.json
+
 # Source data CSVs are tracked deliberately (see MAINTENANCE.md)
 !sources/csv/*.csv
 !sources/networks/*.csv
@@ -9,8 +15,12 @@
 # Local agent instructions and skill files
 AGENTS.md
 skills/
+
+# Python / IDE / OS
 __pycache__/
-V2/
+.vscode/
+.DS_Store
+*.log
 
 # Local browser and agent session artifacts
 .firecrawl/
