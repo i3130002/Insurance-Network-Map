@@ -30,4 +30,9 @@ __pycache__/
 -.xml
 
 # Downloaded raw source snapshots are reproducible inputs, not release data
+sources/raw/V2/
+
+# Version 2 archive (separate repo)
+V2/
+# Raw downloaded snapshots
 sources/raw/

@@ -7,7 +7,7 @@ from pathlib import Path
 from typing import Any
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 PLAN_INDEX = ROOT / "data" / "plans.json"
 ASSIGNMENTS = ROOT / "data" / "network-assignments.json"
 UNMATCHED_NETWORKS = ROOT / "data" / "network-unmatched.json"

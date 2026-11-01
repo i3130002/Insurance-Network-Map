@@ -31,12 +31,12 @@ function createPage() {
             },
         },
     });
-    const html = fs.readFileSync(`${__dirname}/index.html`, 'utf8');
+    const html = fs.readFileSync(`${__dirname}/../index.html`, 'utf8');
     vm.runInContext(html.match(/<script>\s*([\s\S]*?)<\/script>/)[1], context);
     return { document, requests, run: code => vm.runInContext(code, context) };
 }
 
-const providers = JSON.parse(fs.readFileSync(`${__dirname}/data/moh-complete.json`, 'utf8'));
+const providers = JSON.parse(fs.readFileSync(`${__dirname}/../data/moh-complete.json`, 'utf8'));
 const mappedCount = providers.filter(p => p.lat >= 22 && p.lat <= 26.6 && p.lon >= 51 && p.lon <= 56.6).length;
 const response = { ok: true, json: async () => providers };
 

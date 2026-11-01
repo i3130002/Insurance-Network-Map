@@ -16175,29 +16175,5 @@
       "chain": 0,
       "geo_only": 0
     }
-  },
-  {
-    "id": "healthfirst-plan-g-pcp-c",
-    "name": "Health First Plan G — PCP-C Network",
-    "insurer": "Health First",
-    "coverage": "Both",
-    "emirates": [
-      "AJM",
-      "AUH",
-      "DXB",
-      "FUJ",
-      "RAK",
-      "SHJ",
-      "UMQ"
-    ],
-    "file": "data/healthfirst-plan-g-pcp-c.json",
-    "providers": 388,
-    "network_id": "health-first",
-    "layers": {
-      "official": 388,
-      "chain": 0,
-      "geo_only": 0
-    },
-    "network_source": "official"
   }
 ]

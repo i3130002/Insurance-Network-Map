@@ -7,7 +7,7 @@ from pathlib import Path
 
 from extract_zavis import parse_provider_detail, safe_fetch
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 
 
 def enrich(row: dict[str, str]) -> dict[str, str]:

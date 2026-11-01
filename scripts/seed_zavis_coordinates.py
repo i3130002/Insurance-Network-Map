@@ -4,7 +4,7 @@
 import csv
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 INDEX = ROOT / "sources/csv/zavis-providers.csv"
 CROSSWALK = ROOT / "sources/csv/zavis-provider-matches.csv"
 OUTPUT = ROOT / "sources/csv/zavis-providers-enriched.csv"

@@ -12,7 +12,7 @@ import time
 import urllib.parse
 import urllib.request
 
-ROOT = '/home/tony/.t3/worktrees/Insurance Network Map/t3code-ba0d50c8'
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 HF_PATH = os.path.join(ROOT, 'data', 'healthfirst-plan-g-pcp-c.json')
 
 UA = 'InsuranceNetworkMap/1.0 (UAE provider directory)'

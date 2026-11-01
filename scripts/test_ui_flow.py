@@ -7,7 +7,7 @@ from pathlib import Path
 class InsuranceSelectionFlowTest(unittest.TestCase):
     """Check the static page exposes the two-step selection flow."""
 
-    html = Path(__file__).with_name("index.html").read_text(encoding="utf-8")
+    html = Path(__file__).parent.parent.joinpath("index.html").read_text(encoding="utf-8")
 
     def test_company_selection_precedes_plan_selection(self) -> None:
         """Require separate selectors and a company-driven plan population hook."""

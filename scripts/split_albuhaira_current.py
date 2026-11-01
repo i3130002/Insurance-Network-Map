@@ -5,7 +5,7 @@ import csv
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 SOURCE = ROOT / "sources/networks/Al Buhaira Medical Network Current.csv"
 TIERS = {
     "COMPREHENSIVE": "Al Buhaira Comprehensive.csv",

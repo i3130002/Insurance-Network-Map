@@ -7,7 +7,7 @@ import re
 from collections import defaultdict
 from pathlib import Path
 
-ROOT = Path(__file__).resolve().parent
+ROOT = Path(__file__).resolve().parent.parent
 CITY_CODES = {
     "abu dhabi": "AUH", "al ain": "ALAIN", "ajman": "AJM", "dubai": "DXB",
     "fujairah": "FUJ", "ras al khaimah": "RAK", "sharjah": "SHJ",

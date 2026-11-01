@@ -27,7 +27,7 @@ from pathlib import Path
 
 from import_takafol_networks import normalize_emirate
 
-ROOT = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 NETWORKS_DIR = os.path.join(ROOT, 'sources', 'networks')
 PLANS_CSV = os.path.join(ROOT, 'sources', 'csv', 'uae-insurance-plans.csv')
 LAT_MIN, LAT_MAX = 22.0, 26.6
