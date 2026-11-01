@@ -16191,10 +16191,10 @@
       "UMQ"
     ],
     "file": "data/healthfirst-plan-g-pcp-c.json",
-    "providers": 892,
-    "network_id": "healthfirst-plan-g-pcp-c",
+    "providers": 388,
+    "network_id": "health-first",
     "layers": {
-      "official": 892,
+      "official": 388,
       "chain": 0,
       "geo_only": 0
     },
