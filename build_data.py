@@ -360,7 +360,7 @@ PLANS = [
     ('union-aafiya-gold-current', 'Union Insurance Aafiya Gold 2026', 'Union Insurance', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'Union Aafiya Gold Current 2026'),
     ('union-aafiya-plus-current', 'Union Insurance Aafiya Plus 2026', 'Union Insurance', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'Union Aafiya Plus Current 2026'),
     ('union-nas-value-dental-current', 'Union Insurance NAS Value Dental 2026', 'Union Insurance', 'Outpatient', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'Union NAS Value Dental Current 2026'),
-    ('union-nextcare-regional-current', 'Union Insurance NextCare Regional 2026', 'Union Insurance', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'Union NextCare Regional Current 2026'),
+    # Removed: union-nextcare-regional-current (Bahrain regional, not UAE)
     ('dni-lifeline-empire', 'DNI Lifeline Empire',                  'DNI Lifeline Empire', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'DNI Lifeline Empire Current'),
     ('dni-lifeline-pearl', 'DNI Lifeline Pearl',                   'DNI Lifeline Pearl', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'DNI Lifeline Pearl Current'),
     ('dni-lifeline-sapphire', 'DNI Lifeline Sapphire',              'DNI Lifeline Sapphire', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'DNI Lifeline Sapphire Current'),
@@ -374,7 +374,7 @@ PLANS = [
     ('dni-nextcare-pcp-c', 'DNI Nextcare PCP C',                    'DNI Nextcare PCP C', 'Outpatient', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ']),
     ('dni-nextcare-pcp-auh', 'DNI Nextcare PCP Abu Dhabi',           'DNI Nextcare PCP Abu Dhabi', 'Outpatient', ['AUH']),
     ('dni-nextcare-seha', 'DNI Nextcare SEHA Providers',             'DNI Nextcare SEHA Providers', 'Both', ['AUH']),
-    ('dni-nextcare-regional', 'DNI Nextcare Regional',               'DNI Nextcare Regional', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ']),
+    # Removed: dni-nextcare-regional (Kuwait regional, not UAE)
     ('dni-nextcare-tpa-phm', 'DNI Nextcare TPA-PHM',                 'DNI Nextcare TPA-PHM', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'DNI Nextcare TPA PHM'),
     ('dni-mednet', 'DNI MedNet',                                  'DNI MedNet', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ']),
     ('dni-nas', 'DNI NAS',                                          'DNI NAS', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ']),
@@ -418,7 +418,7 @@ PLANS = [
     ('dni-nextcare-pcp-2024', 'DNI NextCare PCP 2024', 'DNI NextCare PCP', 'Outpatient', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'DNI NextCare PCP February 2024'),
     ('dni-nextcare-pcp-c-2024', 'DNI NextCare PCP C 2024', 'DNI NextCare PCP', 'Outpatient', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'DNI NextCare PCP C February 2024'),
     ('dni-nextcare-pcp-auh-2024', 'DNI NextCare PCP Abu Dhabi 2024', 'DNI NextCare PCP', 'Outpatient', ['AUH'], 'DNI NextCare PCP AUH February 2024'),
-    ('dni-nextcare-regional-2024', 'DNI NextCare Regional 2024', 'DNI NextCare Regional', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ'], 'DNI NextCare REGIONAL February 2024'),
+    # Removed: dni-nextcare-regional-2024 (Kuwait regional, not UAE)
     ('dni-nextcare-seha-2024', 'DNI NextCare SEHA Providers 2024', 'DNI NextCare SEHA Providers', 'Both', ['AUH'], 'DNI NextCare SEHA Providers February 2024'),
     ('union-nextcare-general', 'Union Nextcare General',           'Union Insurance Nextcare General', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ']),
     ('union-nextcare-general-plus', 'Union Nextcare General Plus',  'Union Insurance Nextcare General Plus', 'Both', ['AJM', 'AUH', 'DXB', 'FUJ', 'RAK', 'SHJ', 'UMQ']),

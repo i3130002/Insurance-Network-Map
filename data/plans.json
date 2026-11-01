@@ -4796,30 +4796,6 @@
     }
   },
   {
-    "id": "union-nextcare-regional-current",
-    "name": "Union Insurance NextCare Regional 2026",
-    "insurer": "Union Insurance",
-    "coverage": "Both",
-    "emirates": [
-      "AJM",
-      "AUH",
-      "DXB",
-      "FUJ",
-      "RAK",
-      "SHJ",
-      "UMQ"
-    ],
-    "file": "data/union-nextcare-regional-current.json",
-    "providers": 0,
-    "network_id": "Union NextCare Regional Current 2026",
-    "network_source": "official",
-    "layers": {
-      "official": 0,
-      "chain": 0,
-      "geo_only": 0
-    }
-  },
-  {
     "id": "dni-lifeline-empire",
     "name": "DNI Lifeline Empire",
     "insurer": "DNI Lifeline Empire",
@@ -5106,29 +5082,6 @@
     "network_source": "official",
     "layers": {
       "official": 151,
-      "chain": 0,
-      "geo_only": 0
-    }
-  },
-  {
-    "id": "dni-nextcare-regional",
-    "name": "DNI Nextcare Regional",
-    "insurer": "DNI Nextcare Regional",
-    "coverage": "Both",
-    "emirates": [
-      "AJM",
-      "AUH",
-      "DXB",
-      "FUJ",
-      "RAK",
-      "SHJ",
-      "UMQ"
-    ],
-    "file": "data/dni-nextcare-regional.json",
-    "providers": 439,
-    "network_source": "official",
-    "layers": {
-      "official": 439,
       "chain": 0,
       "geo_only": 0
     }
@@ -6150,30 +6103,6 @@
     "network_source": "official",
     "layers": {
       "official": 149,
-      "chain": 0,
-      "geo_only": 0
-    }
-  },
-  {
-    "id": "dni-nextcare-regional-2024",
-    "name": "DNI NextCare Regional 2024",
-    "insurer": "DNI NextCare Regional",
-    "coverage": "Both",
-    "emirates": [
-      "AJM",
-      "AUH",
-      "DXB",
-      "FUJ",
-      "RAK",
-      "SHJ",
-      "UMQ"
-    ],
-    "file": "data/dni-nextcare-regional-2024.json",
-    "providers": 0,
-    "network_id": "DNI NextCare REGIONAL February 2024",
-    "network_source": "official",
-    "layers": {
-      "official": 0,
       "chain": 0,
       "geo_only": 0
     }
