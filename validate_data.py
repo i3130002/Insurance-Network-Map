@@ -19,6 +19,7 @@ PROVIDER_TYPES = {
     "DENTAL",
     "DIAGNOSTIC CENTRE",
     "DAYCARE",
+    "OPTICAL",
 }
 PLAN_FIELDS = {
     "id", "name", "insurer", "coverage", "emirates", "file", "providers",
