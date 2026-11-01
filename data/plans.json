@@ -5839,11 +5839,11 @@
       "UMQ"
     ],
     "file": "data/dni-nas-comprehensive-2024.json",
-    "providers": 0,
+    "providers": 410,
     "network_id": "DNI NAS Comprehensive Network March 2024",
     "network_source": "official",
     "layers": {
-      "official": 0,
+      "official": 410,
       "chain": 0,
       "geo_only": 0
     }
@@ -5863,11 +5863,11 @@
       "UMQ"
     ],
     "file": "data/dni-nas-executive-2024.json",
-    "providers": 0,
+    "providers": 410,
     "network_id": "DNI NAS Executive Network March 2024",
     "network_source": "official",
     "layers": {
-      "official": 0,
+      "official": 410,
       "chain": 0,
       "geo_only": 0
     }
@@ -5887,11 +5887,11 @@
       "UMQ"
     ],
     "file": "data/dni-nas-general-2024.json",
-    "providers": 0,
+    "providers": 407,
     "network_id": "DNI NAS General Network March 2024",
     "network_source": "official",
     "layers": {
-      "official": 0,
+      "official": 407,
       "chain": 0,
       "geo_only": 0
     }
@@ -5911,11 +5911,11 @@
       "UMQ"
     ],
     "file": "data/dni-nas-restricted-2024.json",
-    "providers": 0,
+    "providers": 404,
     "network_id": "DNI NAS Restricted Network March 2024",
     "network_source": "official",
     "layers": {
-      "official": 0,
+      "official": 404,
       "chain": 0,
       "geo_only": 0
     }
@@ -5935,11 +5935,11 @@
       "UMQ"
     ],
     "file": "data/dni-nas-super-restricted-2024.json",
-    "providers": 0,
+    "providers": 398,
     "network_id": "DNI NAS Super-Restricted Network March 2024",
     "network_source": "official",
     "layers": {
-      "official": 0,
+      "official": 398,
       "chain": 0,
       "geo_only": 0
     }
